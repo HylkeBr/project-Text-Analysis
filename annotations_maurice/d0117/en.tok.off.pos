@@ -1,0 +1,89 @@
+1 10 1001 Parisians NNS
+11 15 1002 have VBP
+16 22 1003 joined VBN
+23 28 1004 hands NNS
+29 32 1005 and CC
+33 39 1006 formed VBD
+40 41 1007 a DT
+42 43 1008 " JJ
+43 48 1009 human NN
+49 54 1010 chain NN
+54 55 1011 " VBP
+56 62 1012 around IN
+63 70 1013 central JJ
+71 76 1014 Paris NNP CIT https://en.wikipedia.org/wiki/Paris
+77 79 1015 to TO
+80 84 1016 mark VB
+85 88 1017 the DT
+89 94 1018 sixth JJ
+95 106 1019 anniversary NN
+107 109 1020 of IN
+110 113 1021 the DT
+114 123 1022 abduction NN
+124 126 1023 of IN
+127 130 1024 the DT
+131 147 1025 French-Colombian JJ
+148 158 1026 politician NN
+159 165 1027 Ingrid NNP PER https://en.wikipedia.org/wiki/%C3%8Dngrid_Betancourt
+166 176 1028 Betancourt NNP PER https://en.wikipedia.org/wiki/%C3%8Dngrid_Betancourt
+176 177 1029 . .
+178 181 2001 The DT
+182 191 2002 Colombian JJ
+192 197 2003 rebel NN
+198 203 2004 group NN
+204 208 2005 FARC NNP ORG https://en.wikipedia.org/wiki/Revolutionary_Armed_Forces_of_Colombia
+209 218 2006 kidnapped VBD
+219 229 2007 Betancourt NNP PER https://en.wikipedia.org/wiki/%C3%8Dngrid_Betancourt
+230 232 2008 on IN
+233 241 2009 February NNP
+242 246 2010 23rd CD
+246 247 2011 , ,
+248 252 2012 2002 CD
+253 255 2013 as IN
+256 259 2014 she PRP
+260 270 2015 campaigned VBD
+271 274 2016 for IN
+275 278 2017 the DT
+279 288 2018 Colombian JJ
+289 299 2019 presidency NN
+299 300 2020 . .
+301 307 3001 French JJ
+308 317 3002 president NN
+318 325 3003 Nicolas NNP PER https://en.wikipedia.org/wiki/Nicolas_Sarkozy
+326 333 3004 Sarkozy NNP PER https://en.wikipedia.org/wiki/Nicolas_Sarkozy
+334 337 3005 has VBZ
+338 343 3006 taken VBN
+344 346 3007 an DT
+347 355 3008 interest NN
+356 358 3009 in IN
+359 369 3010 Betancourt NNP PER https://en.wikipedia.org/wiki/%C3%8Dngrid_Betancourt
+369 371 3011 's POS
+372 376 3012 case NN
+377 380 3013 and CC
+381 385 3014 made VBD
+386 394 3015 securing VBG
+395 398 3016 her PRP$
+399 406 3017 release NN
+407 408 3018 a DT
+409 417 3019 priority NN
+417 418 3020 . .
+419 429 4001 Betancourt NNP PER https://en.wikipedia.org/wiki/%C3%8Dngrid_Betancourt
+429 431 4002 's POS
+432 440 4003 daughter NN
+441 445 4004 made VBD
+446 448 4005 up RP
+449 453 4006 part NN
+454 456 4007 of IN
+457 465 4008 Saturday NNP
+465 472 4009 'shuman NNP
+473 478 4010 chain NN
+478 479 4011 , ,
+480 485 4012 along IN
+486 490 4013 with IN
+491 494 4014 the DT
+495 503 4015 recently RB
+504 513 4016 liberated VBN
+514 521 4017 hostage NN
+522 530 4018 Consuelo NNP PER
+531 539 4019 Gonzales NNP PER
+539 540 4020 . .
