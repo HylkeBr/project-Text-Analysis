@@ -1,0 +1,102 @@
+0 4 1001 U.S. NNP
+5 8 1002 and CC
+9 18 1003 Brazilian JJ
+19 24 1004 media NNS
+25 32 1005 reports NNS
+33 36 1006 say VBP
+37 43 1007 police NNS
+44 48 1008 have VBP
+49 57 1009 arrested VBN
+58 59 1010 a DT
+60 63 1011 key JJ
+64 72 1012 al-Qaida JJ ORG https://en.wikipedia.org/wiki/Al-Qaeda
+73 82 1013 operative NN
+83 85 1014 in IN
+86 89 1015 the DT
+90 99 1016 Brazilian JJ
+100 104 1017 city NN
+105 107 1018 of IN
+108 111 1019 Sao NNP CIT https://en.wikipedia.org/wiki/S%C3%A3o_Paulo
+112 117 1020 Paulo NNP CIT https://en.wikipedia.org/wiki/S%C3%A3o_Paulo
+117 118 1021 . .
+120 123 2001 The DT
+124 130 2002 arrest NN
+131 134 2003 was VBD
+135 143 2004 reported VBN
+144 151 2005 Tuesday NNP
+152 154 2006 by IN
+155 158 2007 the DT
+159 169 2008 Associated NNP ORG https://en.wikipedia.org/wiki/Associated_Press
+170 175 2009 Press NNP ORG https://en.wikipedia.org/wiki/Associated_Press
+176 177 2010 ( (
+177 179 2011 AP NNP ORG https://en.wikipedia.org/wiki/Associated_Press
+179 180 2012 ) )
+181 184 2013 and CC
+185 191 2014 Brazil NNP COU https://en.wikipedia.org/wiki/Brazil
+191 193 2015 's POS
+194 199 2016 daily JJ
+200 209 2017 newspaper NN
+209 210 2018 , ,
+211 216 2019 Folha NNP ORG https://en.wikipedia.org/wiki/Folha_de_S.Paulo
+217 219 2020 de NNP ORG https://en.wikipedia.org/wiki/Folha_de_S.Paulo
+220 222 2021 S. NNP ORG https://en.wikipedia.org/wiki/Folha_de_S.Paulo
+223 228 2022 Paulo NNP ORG https://en.wikipedia.org/wiki/Folha_de_S.Paulo
+228 229 2023 . .
+231 234 3001 The DT
+235 242 3002 suspect NN
+243 246 3003 was VBD
+247 250 3004 not RB
+251 261 3005 identified VBN
+262 264 3006 by IN
+265 269 3007 name NN
+269 270 3008 , ,
+271 274 3009 nor CC
+275 278 3010 was VBD
+279 282 3011 his PRP$
+283 294 3012 nationality NN
+295 300 3013 given VBN
+300 301 3014 . .
+303 306 4001 But CC
+307 310 4002 the DT
+311 313 4003 AP NNP ORG https://en.wikipedia.org/wiki/Associated_Press
+314 318 4004 said VBD
+319 320 4005 a DT
+321 328 4006 federal JJ
+329 335 4007 police NN
+336 347 4008 spokeswoman NN
+348 357 4009 confirmed VBD
+358 361 4010 the DT
+362 371 4011 newspaper NN
+371 373 4012 's POS
+374 380 4013 report NN
+381 385 4014 that IN
+386 389 4015 the DT
+390 397 4016 suspect NN
+398 400 4017 is VBZ
+401 402 4018 a DT
+403 406 4019 top JJ
+407 413 4020 player NN
+414 416 4021 in IN
+417 425 4022 al-Qaida NN ORG https://en.wikipedia.org/wiki/Al-Qaeda
+425 427 4023 's POS
+428 441 4024 international JJ
+442 456 4025 communications NNS
+456 457 4026 . .
+459 462 5001 She PRP
+463 467 5002 said VBD
+468 471 5003 the DT
+472 479 5004 suspect NN
+480 482 5005 is VBZ
+483 488 5006 being VBG
+489 493 5007 held VBN
+494 499 5008 under IN
+500 504 5009 laws NNS
+505 509 5010 that WDT
+510 518 5011 prohibit VBP
+519 522 5012 the DT
+523 532 5013 promotion NN
+533 535 5014 of IN
+536 542 5015 racism NN
+543 545 5016 in IN
+546 552 5017 Brazil NNP COU https://en.wikipedia.org/wiki/Brazil
+552 553 5018 . .

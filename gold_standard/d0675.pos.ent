@@ -1,0 +1,73 @@
+0 1 1001 A DT
+2 7 1002 truck NN
+8 16 1003 carrying VBG
+17 22 1004 Hindu NNP
+23 31 1005 pilgrims NN
+32 35 1006 has VBZ
+36 43 1007 plunged VBN
+44 48 1008 into IN
+49 50 1009 a DT
+51 56 1010 gorge NN NAT https://en.wikipedia.org/wiki/Canyon
+57 59 1011 in IN
+60 68 1012 northern JJ
+69 74 1013 India NNP COU https://en.wikipedia.org/wiki/India
+74 75 1014 , ,
+76 83 1015 killing VBG
+84 86 1016 at IN
+87 92 1017 least JJS
+93 95 1018 15 CD
+96 102 1019 people NNS
+102 103 1020 . .
+105 114 2001 Officials NNS
+115 118 2002 say VBP
+119 122 2003 the DT
+123 128 2004 truck NN
+129 132 2005 ran VBD
+133 136 2006 off IN
+137 140 2007 the DT
+141 145 2008 road NN
+146 148 2009 in IN
+149 160 2010 Uttarakhand NNP COU https://en.wikipedia.org/wiki/Uttarakhand
+161 166 2011 state NN
+167 173 2012 Sunday NNP
+174 177 2013 and CC
+178 182 2014 fell VBD
+183 187 2015 into IN
+188 191 2016 the DT
+192 196 2017 deep JJ
+197 202 2018 gorge NN NAT https://en.wikipedia.org/wiki/Canyon
+202 203 2019 . .
+205 209 3001 They PRP
+210 213 3002 say VBP
+214 217 3003 the DT
+218 228 3004 passengers NNS
+229 233 3005 were VBD
+234 236 3006 on IN
+237 242 3007 their PRP$
+243 246 3008 way NN
+247 249 3009 to TO
+250 253 3010 the DT
+254 258 3011 town NN
+259 261 3012 of IN
+262 270 3013 Gangotri NNP CIT https://en.wikipedia.org/wiki/Gangotri
+271 274 3014 for IN
+275 276 3015 a DT
+277 282 3016 Hindu NNP
+283 289 3017 ritual NN
+289 290 3018 . .
+292 297 4001 India NNP COU https://en.wikipedia.org/wiki/India
+298 301 4002 has VBZ
+302 310 4003 frequent JJ
+311 315 4004 road NN
+316 325 4005 accidents NNS
+326 329 4006 due JJ
+330 332 4007 to TO
+333 341 4008 reckless VB
+342 349 4009 driving NN
+349 350 4010 , ,
+351 355 4011 poor JJ
+356 363 4012 vehicle NN
+364 375 4013 maintenance NN
+376 379 4014 and CC
+380 392 4015 overcrowding NN
+392 393 4016 . .

@@ -1,0 +1,71 @@
+0 7 1001 Settled VBN
+8 10 1002 as RB
+11 16 1003 early RB
+17 19 1004 as IN
+20 24 1005 1000 CD
+25 30 1006 B.C., NNP
+31 36 1007 Samoa NNP COU https://en.wikipedia.org/wiki/Samoa
+37 40 1008 was VBD
+41 42 1009 " VBN
+42 52 1010 discovered VBN
+52 53 1011 " NNS
+54 56 1012 by IN
+57 65 1013 European JJ
+66 75 1014 explorers NNS
+76 78 1015 in IN
+79 82 1016 the DT
+83 87 1017 18th JJ
+88 95 1018 century NN
+95 96 1019 . .
+97 110 2001 International NNP
+111 120 2002 rivalries NNS
+121 123 2003 in IN
+124 127 2004 the DT
+128 134 2005 latter JJ
+135 139 2006 half NN
+140 142 2007 of IN
+143 146 2008 the DT
+147 151 2009 19th JJ
+152 159 2010 century NN
+160 164 2011 were VBD
+165 172 2012 settled VBN
+173 175 2013 by IN
+176 178 2014 an DT
+179 183 2015 1899 CD
+184 190 2016 treaty NN
+191 193 2017 in IN
+194 199 2018 which WDT
+200 207 2019 Germany NNP COU https://en.wikipedia.org/wiki/Germany
+208 211 2020 and CC
+212 215 2021 the DT
+216 218 2022 US NNP COU https://en.wikipedia.org/wiki/United_States
+219 226 2023 divided VBD
+227 230 2024 the DT
+231 237 2025 Samoan NNP NAT https://en.wikipedia.org/wiki/Samoan_Islands
+238 249 2026 archipelago NN NAT https://en.wikipedia.org/wiki/Samoan_Islands
+249 250 2027 . .
+251 254 3001 The DT
+255 257 3002 US NNP
+258 266 3003 formally RB
+267 275 3004 occupied VBD
+276 279 3005 its PRP$
+280 287 3006 portion NN
+288 289 3007 - :
+290 291 3008 a DT
+292 299 3009 smaller JJR
+300 305 3010 group NN
+306 308 3011 of IN
+309 316 3012 eastern JJ
+317 324 3013 islands NNS
+325 329 3014 with IN
+330 333 3015 the DT
+334 343 3016 excellent JJ
+344 350 3017 harbor NN
+351 353 3018 of IN
+354 358 3019 Pago NNP CIT https://en.wikipedia.org/wiki/Pago_Pago
+359 363 3020 Pago NNP CIT https://en.wikipedia.org/wiki/Pago_Pago
+364 365 3021 - :
+366 369 3022 the DT
+370 379 3023 following JJ
+380 384 3024 year NN
+384 385 3025 . .
