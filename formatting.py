@@ -61,6 +61,10 @@ def find_annotations(filenames, dict_A, dict_B):
     for fileID in filenames:
         datafile_A = dict_A[fileID]
         datafile_B = dict_B[fileID]
+        print(fileID)
+        print(len(datafile_A))
+        print(len(datafile_B))
+        print()
         for i in range(len(datafile_A)):
             word_data_A = datafile_A[i].split()
             word_data_B = datafile_B[i].split()

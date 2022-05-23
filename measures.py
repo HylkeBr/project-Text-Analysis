@@ -73,8 +73,6 @@ def main():
     annB = overlap_data["data_B"]
     measures(annA, annB)
 
-    
-
 
 if __name__ == "__main__":
     main()
