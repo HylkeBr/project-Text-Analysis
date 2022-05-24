@@ -1,0 +1,85 @@
+1 4 1001 Two CD
+5 13 1002 powerful JJ
+14 24 1003 explosions NNS
+25 29 1004 have VBP
+30 36 1005 ripped VBN
+37 42 1006 apart VB
+43 44 1007 a DT
+45 52 1008 vehicle NN
+53 62 1009 belonging NN
+63 65 1010 to TO
+66 67 1011 a DT
+68 77 1012 prominent JJ
+78 87 1013 Venezuela NNP COU https://en.wikipedia.org/wiki/Venezuela
+88 98 1014 prosecutor NN
+98 99 1015 . .
+100 109 2001 Witnesses NNS
+110 113 2002 say VBP
+114 117 2003 the DT
+118 121 2004 two CD
+122 128 2005 blasts NNS
+129 138 2006 destroyed VBD
+139 145 2007 Deputy NNP
+146 154 2008 Attorney NNP
+155 162 2009 General NNP
+163 169 2010 Danilo NNP PER https://en.wikipedia.org/wiki/Murder_of_Danilo_Anderson
+170 178 2011 Anderson NNP PER https://en.wikipedia.org/wiki/Murder_of_Danilo_Anderson
+178 180 2012 's POS
+181 186 2013 truck NN
+187 189 2014 as IN
+190 192 2015 it PRP
+193 198 2016 drove VBD
+199 206 2017 through IN
+207 208 2018 a DT
+209 221 2019 neighborhood NN
+222 224 2020 in IN
+225 232 2021 western JJ
+233 240 2022 Caracas NNP CIT https://en.wikipedia.org/wiki/Caracas
+241 245 2023 late RB
+246 254 2024 Thursday NNP
+254 255 2025 . .
+256 266 3001 Venezuelan NN
+267 276 3002 officials NNS
+277 280 3003 say VBP
+281 294 3004 investigators NNS
+295 298 3005 are VBP
+299 305 3006 trying VBG
+306 308 3007 to TO
+309 318 3008 determine VB
+319 321 3009 if IN
+322 325 3010 the DT
+326 333 3011 charred VBN
+334 338 3012 body NN
+339 344 3013 found VBD
+345 351 3014 inside IN
+352 355 3015 the DT
+356 363 3016 vehicle NN
+364 366 3017 is VBZ
+367 370 3018 Mr. NNP
+371 379 3019 Anderson NNP PER https://en.wikipedia.org/wiki/Murder_of_Danilo_Anderson
+379 380 3020 . .
+381 384 4001 Mr. NNP
+385 393 4002 Anderson NNP PER https://en.wikipedia.org/wiki/Murder_of_Danilo_Anderson
+394 397 4003 was VBD
+398 407 4004 preparing VBG
+408 409 4005 a DT
+410 414 4006 case NN
+415 422 4007 against IN
+423 429 4008 nearly RB
+430 433 4009 400 CD
+434 440 4010 people NNS
+441 450 4011 allegedly RB
+451 459 4012 involved VBN
+460 462 4013 in IN
+463 466 4014 the DT
+467 472 4015 April NNP
+473 477 4016 2002 CD
+478 487 4017 rebellion NN
+488 492 4018 that WDT
+493 500 4019 briefly NN
+501 507 4020 ousted VBD
+508 516 4021 populist JJ
+517 526 4022 president NN
+527 531 4023 Hugo NNP PER https://en.wikipedia.org/wiki/Hugo_Ch%C3%A1vez
+532 538 4024 Chavez NNP PER https://en.wikipedia.org/wiki/Hugo_Ch%C3%A1vez
+538 539 4025 . .

@@ -1,0 +1,73 @@
+0 3 1001 The DT
+4 10 1002 Afghan NNP ORG https://en.wikipedia.org/wiki/Afghanistan#Government
+11 21 1003 government NN ORG https://en.wikipedia.org/wiki/Afghanistan#Government
+22 25 1004 and CC
+26 29 1005 the DT
+30 36 1006 United NNP ORG https://en.wikipedia.org/wiki/United_Nations_High_Commissioner_for_Refugees
+37 44 1007 Nations NNP ORG https://en.wikipedia.org/wiki/United_Nations_High_Commissioner_for_Refugees
+45 52 1008 refugee NN ORG https://en.wikipedia.org/wiki/United_Nations_High_Commissioner_for_Refugees
+53 59 1009 agency NN ORG https://en.wikipedia.org/wiki/United_Nations_High_Commissioner_for_Refugees
+60 64 1010 have VBP
+65 72 1011 pledged VBN
+73 75 1012 to TO
+76 86 1013 strengthen VB
+87 94 1014 efforts NNS
+95 97 1015 to TO
+98 106 1016 resettle VB
+107 116 1017 returnees NNS
+117 120 1018 and CC
+121 127 1019 people NNS
+128 134 1020 inside IN
+135 138 1021 the DT
+139 146 1022 country NN
+147 156 1023 displaced VBN
+157 159 1024 by IN
+160 168 1025 violence NN
+168 169 1026 . .
+171 174 2001 The DT
+175 181 2002 pledge NN
+182 186 2003 came VBD
+187 192 2004 after IN
+193 194 2005 a DT
+195 207 2006 high-profile JJ
+208 213 2007 visit NN
+214 216 2008 to TO
+217 220 2009 the DT
+221 228 2010 country NN
+229 233 2011 this DT
+234 238 2012 week NN
+239 241 2013 by IN
+242 245 2014 the DT
+246 250 2015 head NN
+251 253 2016 of IN
+254 258 2017 U.N. NNP ORG https://en.wikipedia.org/wiki/United_Nations
+259 263 2018 High NNP
+264 276 2019 Commissioner NNP
+277 280 2020 for IN
+281 289 2021 Refugees NNP
+289 290 2022 , ,
+291 298 2023 Antonio NNP PER https://en.wikipedia.org/wiki/Ant%C3%B3nio_Guterres
+299 307 2024 Guterres NNP PER https://en.wikipedia.org/wiki/Ant%C3%B3nio_Guterres
+307 308 2025 . .
+310 312 3001 As IN
+313 316 3002 VOA NNP ENT https://en.wikipedia.org/wiki/Voice_of_America
+316 318 3003 's POS
+319 323 3004 Ravi NNP PER https://en.wikipedia.org/wiki/Ravi_Khanna
+324 330 3005 Khanna NNP PER https://en.wikipedia.org/wiki/Ravi_Khanna
+331 338 3006 reports NNS
+338 339 3007 , ,
+340 343 3008 the DT
+344 348 3009 U.N. NNP ORG https://en.wikipedia.org/wiki/United_Nations
+349 357 3010 official NN
+358 363 3011 wants VBZ
+364 367 3012 the DT
+368 381 3013 international JJ
+382 391 3014 community NN
+392 394 3015 to TO
+395 397 3016 do VB
+398 402 3017 more JJR
+403 405 3018 to TO
+406 414 3019 resettle VB
+415 421 3020 Afghan NNP
+422 430 3021 refugees NNS
+430 431 3022 . .

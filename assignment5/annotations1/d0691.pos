@@ -1,0 +1,86 @@
+0 1 1001 A DT
+2 9 1002 lengthy JJ
+10 18 1003 struggle NN
+19 26 1004 between IN
+27 33 1005 France NNP COU https://en.wikipedia.org/wiki/France
+34 37 1006 and CC
+38 43 1007 Great NNP COU https://en.wikipedia.org/wiki/Great_Britain
+44 51 1008 Britain NNP COU https://en.wikipedia.org/wiki/Great_Britain
+52 55 1009 for IN
+56 59 1010 the DT
+60 67 1011 islands NNS
+68 73 1012 ended VBD
+74 76 1013 in IN
+77 81 1014 1814 CD
+81 82 1015 , ,
+83 87 1016 when WRB
+88 92 1017 they PRP
+93 97 1018 were VBD
+98 103 1019 ceded VBN
+104 106 1020 to TO
+107 110 1021 the DT
+111 117 1022 latter NN
+117 118 1023 . .
+119 131 2001 Independence NN
+132 136 2002 came VBD
+137 139 2003 in IN
+140 144 2004 1976 CD
+144 145 2005 . .
+146 155 3001 Socialist JJ
+156 160 3002 rule NN
+161 164 3003 was VBD
+165 172 3004 brought VBN
+173 175 3005 to TO
+176 177 3006 a DT
+178 183 3007 close NN
+184 188 3008 with IN
+189 190 3009 a DT
+191 194 3010 new JJ
+195 207 3011 constitution NN
+208 211 3012 and CC
+212 216 3013 free JJ
+217 226 3014 elections NNS
+227 229 3015 in IN
+230 234 3016 1993 CD
+234 235 3017 . .
+236 245 4001 President NNP
+246 259 4002 France-Albert NNP PER https://en.wikipedia.org/wiki/France-Albert_Ren%C3%A9
+260 264 4003 RENE NNP PER https://en.wikipedia.org/wiki/France-Albert_Ren%C3%A9
+264 265 4004 , ,
+266 269 4005 who WP
+270 273 4006 had VBD
+274 280 4007 served VBN
+281 286 4008 since IN
+287 291 4009 1977 CD
+291 292 4010 , ,
+293 296 4011 was VBD
+297 307 4012 re-elected VBN
+308 310 4013 in IN
+311 315 4014 2001 CD
+315 316 4015 , ,
+317 320 4016 but CC
+321 328 4017 stepped VBD
+329 333 4018 down RB
+334 336 4019 in IN
+337 341 4020 2004 CD
+341 342 4021 . .
+343 347 5001 Vice NNP
+348 357 5002 President NNP
+358 363 5003 James NNP PER https://en.wikipedia.org/wiki/James_Michel
+364 370 5004 MICHEL NNP PER https://en.wikipedia.org/wiki/James_Michel
+371 375 5005 took VBD
+376 380 5006 over RP
+381 384 5007 the DT
+385 395 5008 presidency NN
+396 399 5009 and CC
+400 402 5010 in IN
+403 407 5011 July NNP
+408 412 5012 2006 CD
+413 416 5013 was VBD
+417 424 5014 elected VBN
+425 427 5015 to TO
+428 429 5016 a DT
+430 433 5017 new JJ
+434 443 5018 five-year JJ
+444 448 5019 term NN
+448 449 5020 . .
