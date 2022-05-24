@@ -1,0 +1,84 @@
+0 8 1001 Jonathan NNP PER https://en.wikipedia.org/wiki/Jonathan_Rhys_Meyers
+9 20 1002 Rhys-Meyers NNP PER https://en.wikipedia.org/wiki/Jonathan_Rhys_Meyers
+21 24 1003 has VBZ
+25 32 1004 entered VBN
+33 34 1005 a DT
+35 49 1006 rehabilitation NN
+50 56 1007 center NN
+57 59 1008 to TO
+60 67 1009 receive VB
+68 77 1010 treatment NN
+78 81 1011 for IN
+82 89 1012 alcohol NN
+90 100 1013 dependency NN
+100 101 1014 . .
+102 105 2001 The DT
+106 117 2002 29-year-old JJ
+118 123 2003 Irish NNP
+124 129 2004 actor NN
+129 130 2005 , ,
+131 134 2006 who WP
+135 144 2007 currently RB
+145 153 2008 portrays VBZ
+154 161 2009 English NNP
+162 169 2010 monarch NN
+170 175 2011 Henry NNP PER https://en.wikipedia.org/wiki/Henry_VIII
+176 180 2012 VIII NNP PER https://en.wikipedia.org/wiki/Henry_VIII
+181 183 2013 on IN
+184 187 2014 the DT
+188 198 2015 television NN
+199 205 2016 series NN
+206 209 2017 The DT ENT https://en.wikipedia.org/wiki/The_Tudors
+210 216 2018 Tudors NNP ENT https://en.wikipedia.org/wiki/The_Tudors
+216 217 2019 , ,
+218 220 2020 is VBZ
+221 223 2021 in IN
+224 226 2022 an DT
+227 239 2023 unidentified JJ
+240 249 2024 treatment NN
+250 256 2025 center NN
+256 257 2026 . .
+258 261 3001 His PRP$
+262 271 3002 publicist NN
+271 272 3003 , ,
+273 281 3004 Meredith NNP PER
+282 292 3005 O'Sullivan NNP PER
+292 293 3006 , ,
+294 298 3007 made VBD
+299 302 3008 the DT
+303 315 3009 announcement NN
+316 321 3010 April NNP
+322 324 3011 25 CD
+324 325 3012 . .
+326 328 4001 No DT
+329 336 4002 further JJ
+337 344 4003 details NNS
+345 349 4004 were VBD
+350 358 4005 revealed VBN
+358 359 4006 . .
+360 371 5001 Rhys-Meyers NNS PER https://en.wikipedia.org/wiki/Jonathan_Rhys_Meyers
+371 372 5002 ' POS
+373 379 5003 screen NN
+380 387 5004 credits NNS
+388 395 5005 include VBP
+397 401 5006 Bend VBP ENT https://en.wikipedia.org/wiki/Bend_It_Like_Beckham
+402 404 5007 It PRP ENT https://en.wikipedia.org/wiki/Bend_It_Like_Beckham
+405 409 5008 Like IN ENT https://en.wikipedia.org/wiki/Bend_It_Like_Beckham
+410 417 5009 Beckham NNP ENT https://en.wikipedia.org/wiki/Bend_It_Like_Beckham
+417 418 5010 , ,
+419 424 5011 Match NNP ENT https://en.wikipedia.org/wiki/Match_Point_(film)
+425 430 5012 Point NNP ENT https://en.wikipedia.org/wiki/Match_Point_(film)
+430 431 5013 , ,
+432 435 5014 and CC
+436 439 5015 the DT
+440 448 5016 upcoming JJ
+449 455 5017 August NNP ENT https://en.wikipedia.org/wiki/August_Rush
+456 460 5018 Rush NNP ENT https://en.wikipedia.org/wiki/August_Rush
+460 461 5019 , ,
+462 473 5020 co-starring JJ
+474 479 5021 Robin NNP PER https://en.wikipedia.org/wiki/Robin_Williams
+480 488 5022 Williams NNP PER https://en.wikipedia.org/wiki/Robin_Williams
+489 492 5023 and CC
+493 501 5024 Terrence NNP PER https://en.wikipedia.org/wiki/Terrence_Howard
+502 508 5025 Howard NNP PER https://en.wikipedia.org/wiki/Terrence_Howard
+508 509 5026 . .

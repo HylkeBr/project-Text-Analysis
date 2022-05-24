@@ -1,0 +1,69 @@
+0 4 1001 Have VBP
+5 8 1002 you PRP
+9 13 1003 ever RB
+14 20 1004 wished VBD
+21 24 1005 you PRP
+25 30 1006 could MD
+31 34 1007 put VB
+35 40 1008 aside RP
+41 45 1009 your PRP$
+46 50 1010 work NN
+51 55 1011 just RB
+56 59 1012 for IN
+60 61 1013 a DT
+62 67 1014 short JJ
+68 71 1015 nap NN
+71 72 1016 ? .
+74 76 2001 If IN
+77 79 2002 so RB
+79 80 2003 , ,
+81 84 2004 you PRP
+85 88 2005 may MD
+89 91 2006 be VB
+92 97 2007 sleep JJ
+98 106 2008 deprived VBN
+106 107 2009 . .
+109 114 3001 Sleep JJ
+115 122 3002 experts NNS
+123 126 3003 say VBP
+127 132 3004 sleep JJ
+133 144 3005 deprivation NN
+145 147 3006 is VBZ
+148 149 3007 a DT
+150 156 3008 common JJ
+157 164 3009 problem NN
+165 170 3010 among IN
+171 175 3011 many JJ
+176 182 3012 people NNS
+183 186 3013 who WP
+187 190 3014 put VBP
+191 193 3015 in IN
+194 198 3016 long JJ
+199 204 3017 hours NNS
+205 207 3018 on IN
+208 211 3019 the DT
+212 215 3020 job NN
+216 218 3021 or CC
+219 223 3022 take VB
+224 228 3023 work NN
+229 233 3024 home NN
+234 238 3025 with IN
+239 243 3026 them PRP
+243 244 3027 . .
+246 249 4001 VOA ORG https://en.wikipedia.org/wiki/Voice_of_America
+249 251 4002 's POS
+252 259 4003 Melinda NNP PER
+260 265 4004 Smith NNP PER
+266 269 4005 has VBZ
+270 277 4006 results NNS
+278 280 4007 of IN
+281 282 4008 a DT
+283 289 4009 recent JJ
+290 294 4010 poll NN
+295 304 4011 conducted VBN
+305 307 4012 by IN
+308 311 4013 the DT
+312 320 4014 National NNP ORG https://en.wikipedia.org/wiki/National_Sleep_Foundation
+321 326 4015 Sleep NNP ORG https://en.wikipedia.org/wiki/National_Sleep_Foundation
+327 337 4016 Foundation NNP ORG https://en.wikipedia.org/wiki/National_Sleep_Foundation
+337 338 4017 . .

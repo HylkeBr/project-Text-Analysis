@@ -1,0 +1,80 @@
+0 4 1001 Tony NNP PER https://en.wikipedia.org/wiki/Tony_Blair
+5 10 1002 Blair NNP PER https://en.wikipedia.org/wiki/Tony_Blair
+10 11 1003    
+12 16 1004 left VBD  
+16 17 1005    
+18 21 1006 and CC  
+22 28 1007 George NNP PER https://en.wikipedia.org/wiki/George_W._Bush
+29 31 1008 W. NNP PER https://en.wikipedia.org/wiki/George_W._Bush
+32 36 1009 Bush NNP PER https://en.wikipedia.org/wiki/George_W._Bush
+37 46 1010 President NNP  
+47 51 1011 Bush NNP PER https://en.wikipedia.org/wiki/George_W._Bush
+52 56 1012 will MD  
+57 61 1013 sign VB  
+62 63 1014 a DT  
+64 74 1015 condolence NN  
+75 79 1016 book NN  
+80 83 1017 for IN  
+84 87 1018 the DT  
+88 95 1019 victims NNS  
+96 98 1020 of IN  
+99 102 1021 the DT  
+103 109 1022 London NNP CIT https://en.wikipedia.org/wiki/London
+110 118 1023 bombings NNS  
+119 125 1024 Friday NNP  
+126 128 1025 at IN  
+129 132 1026 the DT  
+133 140 1027 British JJ ORG "https://en.wikipedia.org/wiki/Embassy_of_the_United_Kingdom,_Washington,_D.C."
+141 148 1028 embassy NN ORG "https://en.wikipedia.org/wiki/Embassy_of_the_United_Kingdom,_Washington,_D.C."
+149 151 1029 in IN  
+152 162 1030 Washington NNP CIT "https://en.wikipedia.org/wiki/Washington,_D.C."
+162 163 1031 . .  
+164 173 2001 President NNP  
+174 178 2002 Bush NNP PER https://en.wikipedia.org/wiki/George_W._Bush
+179 181 2003 is VBZ  
+182 185 2004 now RB  
+186 188 2005 en JJ  
+189 194 2006 route NN  
+195 197 2007 to TO  
+198 208 2008 Washington NNP COU https://en.wikipedia.org/wiki/Washington_(state)
+209 213 2009 from IN  
+214 217 2010 the DT  
+218 223 2011 Group NNP  
+224 226 2012 of IN  
+227 232 2013 Eight NNP  
+233 239 2014 summit NN  
+240 242 2015 in IN  
+243 251 2016 Scotland NNP COU https://en.wikipedia.org/wiki/Scotland
+251 252 2017 . .  
+253 256 3001 Mr. NNP  
+257 261 3002 Bush NNP PER https://en.wikipedia.org/wiki/George_W._Bush
+262 271 3003 expressed VBD  
+272 283 3004 condolences NNS  
+284 292 3005 Thursday NNP  
+293 300 3006 outside IN  
+301 304 3007 the DT  
+305 311 3008 summit NN  
+312 320 3009 meetings NNS  
+320 321 3010    
+322 328 3011 saying VBG  
+329 332 3012 the DT  
+333 336 3013 war NN  
+337 339 3014 on IN  
+340 346 3015 terror NN  
+347 356 3016 continues VBZ  
+356 357 3017 . .  
+358 360 4001 He PRP  
+361 368 4002 pledged VBD  
+369 373 4003 that IN  
+374 377 4004 the DT  
+378 390 4005 perpetrators NNS  
+391 393 4006 of IN  
+394 397 4007 the DT  
+398 404 4008 London NNP CIT https://en.wikipedia.org/wiki/London
+405 412 4009 attacks NNS  
+413 417 4010 will MD  
+418 420 4011 be VB  
+421 428 4012 brought VBN  
+429 431 4013 to TO  
+432 439 4014 justice NN  
+439 440 4015 . .  

@@ -1,0 +1,57 @@
+0 9 1001 Americans NNPS
+10 13 1002 are VBP
+14 22 1003 watching VBG
+23 26 1004 the DT
+27 34 1005 Beijing NNP CIT https://en.wikipedia.org/wiki/Beijing
+35 43 1006 Olympics NNPS
+44 46 1007 in IN
+47 53 1008 record NN
+54 61 1009 numbers NNS
+62 65 1010 and CC
+66 70 1011 some DT
+71 74 1012 are VBP
+75 82 1013 getting VBG
+83 84 1014 a DT
+85 94 1015 different JJ
+95 99 1016 look NN
+100 102 1017 at IN
+103 108 1018 China NNP COU https://en.wikipedia.org/wiki/China
+109 113 1019 from IN
+114 118 1020 what WP
+119 123 1021 they PRP
+124 129 1022 often RB
+130 133 1023 see VBP
+134 136 1024 on IN
+137 140 1025 the DT
+141 145 1026 news NN
+145 146 1027 . .
+147 151 2001 VOA- NNP ORG https://en.wikipedia.org/wiki/Voice_of_America
+152 154 2002 TV NN
+154 156 2003 's POS
+157 162 2004 Craig NNP PER
+163 174 2005 Fitzpatrick NNP PER
+175 181 2006 talked VBD
+182 186 2007 with IN
+187 191 2008 some DT
+192 198 2009 people NNS
+199 201 2010 in IN
+202 205 2011 the DT
+206 216 2012 Washington NNP CIT https://en.wikipedia.org/wiki/Washington,_D.C.
+217 221 2013 area NN
+222 227 2014 about IN
+228 233 2015 their PRP$
+234 242 2016 Olympics NNPS
+243 250 2017 viewing VBG
+251 257 2018 habits NNS
+258 261 2019 and CC
+262 267 2020 their PRP$
+268 279 2021 impressions NNS
+280 282 2022 of IN
+283 288 2023 China NNP COU https://en.wikipedia.org/wiki/China
+288 289 2024 . .
+290 295 3001 Chris NNP PER
+296 303 3002 Simkins NNP PER
+304 312 3003 narrates VBZ
+313 316 3004 the DT
+317 322 3005 story NN
+322 323 3006 . .

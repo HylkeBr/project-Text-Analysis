@@ -1,0 +1,88 @@
+0 1 1001 A DT  
+2 13 1002 congressman NN  
+14 18 1003 from IN  
+19 24 1004 South NNP COU https://en.wikipedia.org/wiki/South_Carolina
+25 33 1005 Carolina NNP COU https://en.wikipedia.org/wiki/South_Carolina
+34 37 1006 has VBZ  
+38 43 1007 urged VBN  
+44 47 1008 his PRP$  
+48 58 1009 colleagues NNS  
+59 62 1010 and CC  
+63 72 1011 President NNP  
+73 77 1012 Bush NNP PER https://en.wikipedia.org/wiki/George_W._Bush
+78 80 1013 to TO  
+81 88 1014 provide VB  
+89 95 1015 better JJR  
+96 105 1016 equipment NN  
+106 108 1017 to TO  
+109 115 1018 troops VB  
+116 118 1019 in IN  
+119 123 1020 Iraq NNP COU https://en.wikipedia.org/wiki/Iraq
+123 124 1021 . .  
+125 139 2001 Representative NNP  
+140 143 2002 Jim NNP PER https://en.wikipedia.org/wiki/Jim_Clyburn
+144 151 2003 Clyburn NNP PER https://en.wikipedia.org/wiki/Jim_Clyburn
+152 156 2004 said VBD  
+157 159 2005 in IN  
+160 163 2006 the DT  
+164 174 2007 Democratic NNP ORG https://en.wikipedia.org/wiki/Democratic_Party_(United_States)
+175 180 2008 party NN ORG https://en.wikipedia.org/wiki/Democratic_Party_(United_States)
+180 182 2009 's POS  
+183 189 2010 weekly JJ  
+190 195 2011 radio NN  
+196 203 2012 address NN  
+204 208 2013 that IN  
+209 213 2014 U.S. NNP COU https://en.wikipedia.org/wiki/United_States
+214 222 2015 soldiers NNS  
+223 229 2016 should MD  
+230 235 2017 never RB  
+236 240 2018 lack VB  
+241 247 2019 proper JJ  
+248 257 2020 equipment NN  
+258 261 2021 nor CC  
+262 270 2022 accurate JJ  
+271 283 2023 intelligence NN  
+283 284 2024 . .  
+285 288 3001 Mr. NNP PER https://en.wikipedia.org/wiki/Jim_Clyburn
+289 296 3002 Clyburn NNP PER https://en.wikipedia.org/wiki/Jim_Clyburn
+297 301 3003 also RB  
+302 306 3004 said VBD  
+307 309 3005 he PRP  
+310 317 3006 opposed VBD  
+318 326 3007 attempts NNS  
+327 329 3008 to TO  
+330 336 3009 invest VB  
+337 343 3010 Social NNP  
+344 352 3011 Security NNP  
+353 355 3012 on IN  
+356 359 3013 the DT  
+360 365 3014 stock NN  
+366 372 3015 market NN  
+372 373 3016    
+374 381 3017 calling VBG  
+382 390 3018 proposed VBN  
+391 396 3019 plans NNS  
+397 398 3020 a DT  
+399 405 3021 gamble NN  
+406 410 3022 that WDT  
+411 416 3023 could MD  
+417 427 3024 jeopardize VB  
+428 436 3025 benefits NNS  
+437 440 3026 for IN  
+441 449 3027 children NNS  
+449 450 3028 . .  
+451 453 4001 He PRP  
+454 458 4002 also RB  
+459 465 4003 called VBD  
+466 469 4004 for IN  
+470 479 4005 expanding VBG  
+480 486 4006 health NN  
+487 496 4007 insurance NN  
+497 505 4008 coverage NN  
+506 509 4009 and CC  
+510 516 4010 making VBG  
+517 524 4011 college NN  
+525 534 4012 education NN  
+535 539 4013 more RBR  
+540 550 4014 affordable JJ  
+550 551 4015 . .  

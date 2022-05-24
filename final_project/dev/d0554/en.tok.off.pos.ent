@@ -1,0 +1,80 @@
+0 11 1001 Palestinian JJ COU https://en.wikipedia.org/wiki/State_of_Palestine
+12 19 1002 medical JJ
+20 27 1003 workers NNS
+28 31 1004 say VBP
+32 34 1005 an DT
+35 42 1006 Israeli NNP COU https://en.wikipedia.org/wiki/Israel
+43 46 1007 air NN
+47 53 1008 strike NN
+54 56 1009 on IN
+57 61 1010 Gaza NNP CIT https://en.wikipedia.org/wiki/Gaza_City
+62 65 1011 has VBZ
+66 72 1012 killed VBN
+73 74 1013 a DT
+75 86 1014 Palestinian JJ COU https://en.wikipedia.org/wiki/State_of_Palestine
+87 95 1015 militant NN
+96 99 1016 and CC
+100 107 1017 wounded VBD
+108 111 1018 two CD
+112 117 1019 other JJ
+118 124 1020 people NNS
+124 125 1021 . .
+127 133 2001 Medics NNPS
+134 138 2002 said VBD
+139 145 2003 Monday NNP
+146 150 2004 that IN
+151 154 2005 the DT
+155 158 2006 air NN
+159 165 2007 strike NN
+166 169 2008 hit VBD
+170 174 2009 near IN
+175 178 2010 the DT
+179 185 2011 border NN
+185 186 2012 , ,
+187 191 2013 east NN
+192 194 2014 of IN
+195 199 2015 Gaza NNP CIT https://en.wikipedia.org/wiki/Gaza_City
+200 204 2016 City NNP CIT https://en.wikipedia.org/wiki/Gaza_City
+204 205 2017 . .
+207 209 3001 An DT
+210 217 3002 Israeli JJ COU https://en.wikipedia.org/wiki/Israel
+218 222 3003 army NN
+223 234 3004 spokeswoman NN
+235 239 3005 said VBD
+240 243 3006 the DT
+244 250 3007 strike NN
+251 259 3008 targeted VBD
+260 261 3009 a DT
+262 270 3010 militant NN
+271 274 3011 who WP
+275 280 3012 fired VBD
+281 282 3013 a DT
+283 297 3014 rocket-powered JJ
+298 305 3015 grenade NN
+306 308 3016 at IN
+309 316 3017 Israeli NNP COU https://en.wikipedia.org/wiki/Israel
+317 325 3018 soldiers NNS
+326 330 3019 near IN
+331 334 3020 the DT
+335 341 3021 border NN
+341 342 3022 . .
+343 346 4001 The DT
+347 355 4002 militant NN
+356 359 4003 was VBD
+360 368 4004 believed VBN
+369 371 4005 to TO
+372 376 4006 have VB
+377 381 4007 been VBN
+382 383 4008 a DT
+384 390 4009 member NN
+391 393 4010 of IN
+394 397 4011 the DT
+398 403 4012 group NN
+404 411 4013 Popular NNP ORG https://en.wikipedia.org/wiki/Popular_Front_for_the_Liberation_of_Palestine
+412 417 4014 Front NNP ORG https://en.wikipedia.org/wiki/Popular_Front_for_the_Liberation_of_Palestine
+418 421 4015 for IN ORG https://en.wikipedia.org/wiki/Popular_Front_for_the_Liberation_of_Palestine
+422 425 4016 the DT ORG https://en.wikipedia.org/wiki/Popular_Front_for_the_Liberation_of_Palestine
+426 436 4017 Liberation NNP ORG https://en.wikipedia.org/wiki/Popular_Front_for_the_Liberation_of_Palestine
+437 439 4018 of IN ORG https://en.wikipedia.org/wiki/Popular_Front_for_the_Liberation_of_Palestine
+440 449 4019 Palestine NNP ORG https://en.wikipedia.org/wiki/Popular_Front_for_the_Liberation_of_Palestine
+449 450 4020 . .

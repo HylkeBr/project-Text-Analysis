@@ -1,0 +1,102 @@
+0 7 1001 Clashes NNS
+8 10 1002 in IN
+11 19 1003 southern JJ
+20 31 1004 Afghanistan NNP COU https://en.wikipedia.org/wiki/Afghanistan
+32 36 1005 have VBP
+37 43 1006 killed VBN
+44 46 1007 at IN
+47 52 1008 least JJS
+53 55 1009 30 CD
+56 63 1010 Taliban NNP ORG https://en.wikipedia.org/wiki/Taliban
+64 72 1011 fighters NNS
+72 73 1012 , ,
+74 83 1013 including VBG
+84 87 1014 one CD
+88 95 1015 Taliban NNP ORG https://en.wikipedia.org/wiki/Taliban
+96 105 1016 commander NN
+105 106 1017 . .
+107 110 2001 The DT
+111 117 2002 Afghan NNP ORG https://en.wikipedia.org/wiki/Ministry_of_Defense_(Afghanistan)
+118 125 2003 Defense NNP ORG https://en.wikipedia.org/wiki/Ministry_of_Defense_(Afghanistan)
+126 134 2004 Ministry NNP ORG https://en.wikipedia.org/wiki/Ministry_of_Defense_(Afghanistan)
+135 139 2005 says VBZ
+140 143 2006 the DT
+144 153 2007 operation NN
+154 158 2008 took VBD
+159 164 2009 place NN
+165 174 2010 Wednesday NNP
+175 177 2011 in IN
+178 186 2012 southern JJ
+187 194 2013 Helmand NNP COU https://en.wikipedia.org/wiki/Helmand_Province
+195 203 2014 province NN COU https://en.wikipedia.org/wiki/Helmand_Province
+203 204 2015 , ,
+205 206 2016 a DT
+207 213 2017 region NN
+214 219 2018 where WRB
+220 227 2019 Taliban NN ORG https://en.wikipedia.org/wiki/Taliban
+228 237 2020 militants NNS
+238 241 2021 are VBP
+242 248 2022 highly RB
+249 255 2023 active JJ
+255 256 2024 . .
+257 263 3001 Afghan JJ
+264 273 3002 officials NNS
+274 277 3003 say VBP
+278 279 3004 a DT
+280 289 3005 coalition NN
+290 292 3006 of IN
+293 299 3007 Afghan NNP
+300 303 3008 and CC
+304 311 3009 foreign JJ
+312 319 3010 special JJ
+320 326 3011 forces NNS
+327 334 3012 mounted VBD
+335 346 3013 coordinated JJ
+347 354 3014 attacks NNS
+355 357 3015 on IN
+358 367 3016 insurgent NN
+368 373 3017 cells NNS
+374 376 3018 in IN
+377 380 3019 the DT
+381 385 3020 Musa NNP COU https://en.wikipedia.org/wiki/Musa_Qala_District
+386 390 3021 Qala NNP COU https://en.wikipedia.org/wiki/Musa_Qala_District
+391 397 3022 region NN
+397 398 3023 . .
+399 410 4001 Authorities NNS
+411 414 4002 say VBP
+415 424 4003 coalition NN
+425 433 4004 aircraft NN
+434 440 4005 bombed VBD
+441 449 4006 militant JJ
+450 455 4007 cells NNS
+456 462 4008 during IN
+463 464 4009 a DT
+465 474 4010 five-hour JJ
+475 481 4011 battle NN
+481 482 4012 . .
+483 485 5001 No DT
+486 495 5002 coalition NN
+496 506 5003 casualties NNS
+507 511 5004 were VBD
+512 520 5005 reported VBN
+520 521 5006 . .
+522 532 6001 Separately RB
+532 533 6002 , ,
+534 535 6003 a DT
+536 544 6004 roadside NN
+545 549 6005 bomb NN
+550 552 6006 in IN
+553 560 6007 Helmand NNP COU https://en.wikipedia.org/wiki/Helmand_Province
+561 564 6008 hit VBD
+565 566 6009 a DT
+567 574 6010 British JJ
+575 581 6011 patrol NN
+581 582 6012 , ,
+583 590 6013 killing VBG
+591 594 6014 one CD
+595 602 6015 soldier JJR
+603 606 6016 and CC
+607 615 6017 wounding VBG
+616 620 6018 four CD
+621 627 6019 others NNS
+627 628 6020 . .

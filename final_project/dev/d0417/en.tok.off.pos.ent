@@ -1,0 +1,84 @@
+0 5 1001 Japan NNP COU https://en.wikipedia.org/wiki/Japan
+5 7 1002 's POS
+8 18 1003 parliament NN
+19 22 1004 has VBZ
+23 31 1005 ratified VBN
+32 33 1006 a DT
+34 38 1007 free JJ
+39 44 1008 trade NN
+45 54 1009 agreement NN
+55 59 1010 with IN
+60 66 1011 Mexico NNP COU https://en.wikipedia.org/wiki/Mexico
+66 67 1012 . .
+68 71 2001 The DT
+72 78 2002 accord NN
+78 79 2003 , ,
+80 85 2004 which WDT
+86 89 2005 was VBD
+90 96 2006 signed VBN
+97 101 2007 last JJ
+102 111 2008 September NNP
+112 114 2009 by IN
+115 123 2010 Japanese JJ
+124 129 2011 Prime NNP
+130 138 2012 Minister NNP
+139 148 2013 Junichiro NNP PER https://en.wikipedia.org/wiki/Junichiro_Koizumi
+149 156 2014 Koizumi NNP PER https://en.wikipedia.org/wiki/Junichiro_Koizumi
+157 160 2015 and CC
+161 168 2016 Mexican NNP
+169 178 2017 President NNP
+179 186 2018 Vicente NNP PER https://en.wikipedia.org/wiki/Vicente_Fox
+187 190 2019 Fox NNP PER https://en.wikipedia.org/wiki/Vicente_Fox
+190 191 2020 , ,
+192 196 2021 must MD
+197 202 2022 still RB
+203 205 2023 be VB
+206 214 2024 ratified VBN
+215 217 2025 by IN
+218 224 2026 Mexico NNP COU https://en.wikipedia.org/wiki/Mexico
+224 226 2027 's POS
+227 238 2028 legislature NN
+238 239 2029 . .
+240 243 3001 The DT
+244 249 3002 trade NN
+250 256 3003 accord NN
+257 265 3004 promises VBZ
+266 268 3005 to TO
+269 274 3006 widen VB
+275 283 3007 Japanese JJ
+284 290 3008 export NN
+291 304 3009 opportunities NNS
+305 307 3010 in IN
+308 314 3011 Mexico NNP COU https://en.wikipedia.org/wiki/Mexico
+315 318 3012 and CC
+319 322 3013 the DT
+323 329 3014 United NNP COU https://en.wikipedia.org/wiki/United_States
+330 336 3015 States NNPS COU https://en.wikipedia.org/wiki/United_States
+336 337 3016 , ,
+338 341 3017 and CC
+342 346 3018 aims VBZ
+347 349 3019 to TO
+350 356 3020 reduce VB
+357 364 3021 Mexican NNP
+365 375 3022 dependence NN
+376 378 3023 on IN
+379 382 3024 the DT
+383 389 3025 United NNP COU https://en.wikipedia.org/wiki/United_States
+390 396 3026 States NNPS COU https://en.wikipedia.org/wiki/United_States
+397 400 3027 for IN
+401 407 3028 export NN
+408 413 3029 sales NNS
+413 414 3030 . .
+415 420 4001 About IN
+421 423 4002 90 CD
+424 431 4003 percent NN
+432 434 4004 of IN
+435 441 4005 Mexico NNP COU https://en.wikipedia.org/wiki/Mexico
+441 443 4006 's POS
+444 451 4007 exports NNS
+452 454 4008 go VBP
+455 457 4009 to TO
+458 461 4010 the DT
+462 468 4011 United NNP COU https://en.wikipedia.org/wiki/United_States
+469 475 4012 States NNPS COU https://en.wikipedia.org/wiki/United_States
+475 476 4013 . .

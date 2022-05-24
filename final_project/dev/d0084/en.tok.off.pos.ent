@@ -1,0 +1,94 @@
+0 5 1001 China NNP COU https://en.wikipedia.org/wiki/China
+6 10 1002 will MD
+11 15 1003 soon RB
+16 21 1004 allow VB
+22 29 1005 foreign JJ
+30 37 1006 airline NN
+38 45 1007 flights NNS
+46 51 1008 freer VBD
+52 58 1009 access NN
+59 61 1010 to TO
+62 65 1011 the DT
+66 73 1012 western JJ
+74 78 1013 part NN
+79 81 1014 of IN
+82 85 1015 the DT
+86 93 1016 country NN
+94 96 1017 to TO
+97 101 1018 help VB
+102 107 1019 boost VB
+108 119 1020 development NN
+119 120 1021 . .
+121 124 2001 The DT
+125 129 2002 vice NN
+130 138 2003 director NN
+139 141 2004 of IN
+142 147 2005 China NNP ORG https://en.wikipedia.org/wiki/Civil_Aviation_Administration_of_China
+147 149 2006 's POS ORG https://en.wikipedia.org/wiki/Civil_Aviation_Administration_of_China
+150 155 2007 civil JJ ORG https://en.wikipedia.org/wiki/Civil_Aviation_Administration_of_China
+156 164 2008 aviation NN ORG https://en.wikipedia.org/wiki/Civil_Aviation_Administration_of_China
+165 179 2009 administration NN ORG https://en.wikipedia.org/wiki/Civil_Aviation_Administration_of_China
+179 180 2010 , ,
+181 185 2011 Yang NNP PER
+186 193 2012 Guoqing NNP PER
+193 194 2013 , ,
+195 199 2014 says VBZ
+200 207 2015 Beijing NNP CIT https://en.wikipedia.org/wiki/Beijing
+208 212 2016 will MD
+213 216 2017 end VB
+217 223 2018 limits NNS
+224 226 2019 on IN
+227 235 2020 overseas JJ
+236 239 2021 air NN
+240 248 2022 carriers NNS
+249 252 2023 who WP
+253 258 2024 apply VBP
+259 261 2025 to TO
+262 269 2026 operate VB
+270 283 2027 international JJ
+284 291 2028 flights NNS
+292 294 2029 in IN
+295 302 2030 western JJ
+303 308 2031 areas NNS
+308 309 2032 . .
+310 313 3001 The DT
+314 323 3002 state-run JJ
+324 329 3003 China NNP ENT https://en.wikipedia.org/wiki/China_Daily
+330 335 3004 Daily NNP ENT https://en.wikipedia.org/wiki/China_Daily
+336 345 3005 newspaper NN
+346 350 3006 says VBZ
+351 360 3007 passenger NN
+361 368 3008 traffic NN
+369 371 3009 in IN
+372 379 3010 western JJ
+380 385 3011 China NNP COU https://en.wikipedia.org/wiki/China
+386 395 3012 increased VBD
+396 398 3013 35 CD
+399 406 3014 percent NN
+407 411 3015 last JJ
+412 416 3016 year NN
+417 421 3017 over IN
+422 425 3018 the DT
+426 430 3019 year NN
+431 437 3020 before IN
+437 438 3021 . .
+439 444 4001 China NNP COU https://en.wikipedia.org/wiki/China
+444 446 4002 's POS
+447 454 4003 current JJ
+455 463 4004 economic JJ
+464 468 4005 boom NN
+469 472 4006 has VBZ
+473 480 4007 largely RB
+481 485 4008 gone VBN
+486 495 4009 unnoticed JJ
+496 498 4010 in IN
+499 502 4011 the DT
+503 510 4012 country NN
+510 512 4013 's POS
+513 519 4014 thinly RB
+520 529 4015 populated VBN
+529 530 4016 , ,
+531 541 4017 landlocked VBD
+542 549 4018 western JJ
+550 556 4019 region NN
+556 557 4020 . .

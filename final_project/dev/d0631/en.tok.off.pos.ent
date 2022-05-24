@@ -1,0 +1,71 @@
+0 9 1001 Pakistani NN 
+10 19 1002 officials NNS
+20 23 1003 say VBP
+24 34 1004 government NN
+35 41 1005 troops NNS
+42 46 1006 have VBP
+47 53 1007 killed VBN
+54 56 1008 at IN
+57 62 1009 least JJS
+63 65 1010 43 CD
+66 75 1011 militants NNS
+76 78 1012 in IN
+79 81 1013 an DT
+82 89 1014 ongoing JJ
+90 99 1015 operation NN
+100 102 1016 in IN
+103 106 1017 the DT
+107 119 1018 northwestern JJ 
+120 126 1019 Khyber NNP
+127 133 1020 tribal JJ
+134 140 1021 region NN
+141 150 1022 bordering VBG
+151 162 1023 Afghanistan NNP COU https://en.wikipedia.org/wiki/Afghanistan
+162 163 1024 . .
+165 176 2001 Authorities NNS
+177 180 2002 say VBP
+181 184 2003 one CD
+185 187 2004 of IN
+188 191 2005 the DT
+192 197 2006 bases NNS
+198 200 2007 of IN
+201 204 2008 the DT
+205 213 2009 militant JJ
+214 219 2010 group NN
+220 235 2011 Lashkar-e-Islam NNP ORG https://en.wikipedia.org/wiki/Lashkar-e-Islam
+236 239 2012 was VBD
+240 249 2013 destroyed VBN
+250 252 2014 in IN
+253 261 2015 Saturday NNP
+261 263 2016 's POS
+264 270 2017 attack NN
+270 271 2018 . .
+275 283 3001 Pakistan NNP COU https://en.wikipedia.org/wiki/Pakistan
+284 286 3002 is VBZ
+287 292 3003 under IN
+293 300 3004 intense JJ
+301 305 3005 U.S. NNP COU https://en.wikipedia.org/wiki/United_States
+306 314 3006 pressure NN
+315 317 3007 to TO
+318 323 3008 crack VB
+324 328 3009 down RP
+329 331 3010 on IN
+332 341 3011 militants NNS
+342 347 3012 close RB
+348 350 3013 to TO
+351 354 3014 the DT
+355 361 3015 Afghan NNP
+362 368 3016 border NN
+368 369 3017 . .
+371 377 4001 Khyber NNP
+378 380 4002 is VBZ
+381 383 4003 on IN
+384 387 4004 the DT
+388 392 4005 main JJ
+393 397 4006 land NN
+398 403 4007 route NN
+404 411 4008 through IN
+412 420 4009 Pakistan NNP COU https://en.wikipedia.org/wiki/Pakistan
+421 425 4010 into IN
+426 437 4011 Afghanistan NNP COU https://en.wikipedia.org/wiki/Afghanistan
+437 438 4012 . .

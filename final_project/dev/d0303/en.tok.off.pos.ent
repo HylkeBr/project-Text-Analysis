@@ -1,0 +1,96 @@
+0 10 1001 Venezuelan NNP  
+11 20 1002 President NNP  
+21 25 1003 Hugo NNP PER https://en.wikipedia.org/wiki/Hugo_Ch%C3%A1vez
+26 32 1004 Chavez NNP PER https://en.wikipedia.org/wiki/Hugo_Ch%C3%A1vez
+33 36 1005 has VBZ  
+37 40 1006 met VBN  
+41 45 1007 with IN  
+46 53 1008 Russian JJ COU https://en.wikipedia.org/wiki/Russia
+54 62 1009 business NN  
+63 70 1010 leaders NNS  
+71 73 1011 to TO  
+74 81 1012 discuss VB  
+82 87 1013 joint JJ  
+88 91 1014 oil NN  
+92 95 1015 and CC  
+96 99 1016 gas NN  
+100 108 1017 ventures NNS  
+109 115 1018 during IN  
+116 117 1019 a DT  
+118 123 1020 visit NN  
+124 126 1021 to TO  
+127 133 1022 Moscow NNP CIT https://en.wikipedia.org/wiki/Moscow
+133 134 1023 . .  
+135 144 2001 According VBG  
+145 147 2002 to TO  
+148 158 2003 Associated NNP  
+159 164 2004 Press NNP  
+164 165 2005    
+166 169 2006 Mr. NNP PER
+170 176 2007 Chavez NNP PER https://en.wikipedia.org/wiki/Hugo_Ch%C3%A1vez
+177 184 2008 praised VBD  
+185 188 2009 the DT  
+189 194 2010 close JJ  
+195 199 2011 ties NNS  
+200 207 2012 between IN  
+208 214 2013 Russia NNP COU https://en.wikipedia.org/wiki/Russia
+215 218 2014 and CC  
+219 228 2015 Venezuela NNP COU https://en.wikipedia.org/wiki/Venezuela
+229 235 2016 during IN  
+236 239 2017 the DT  
+240 247 2018 meeting NN  
+247 248 2019    
+249 252 2020 and CC  
+253 258 2021 urged VBD  
+259 262 2022 top JJ  
+263 273 2023 executives NNS  
+274 276 2024 to TO  
+277 283 2025 invest VB  
+284 286 2026 in IN  
+287 293 2027 future JJ  
+294 300 2028 energy NN  
+301 309 2029 projects NNS  
+309 310 2030 . .  
+311 320 3001 President NNP
+321 327 3002 Chavez NNP PER https://en.wikipedia.org/wiki/Hugo_Ch%C3%A1vez
+328 330 3003 is VBZ  
+331 333 3004 on IN  
+334 335 3005 a DT  
+336 343 3006 two-day JJ  
+344 349 3007 visit NN  
+350 352 3008 to TO  
+353 359 3009 Russia NNP COU https://en.wikipedia.org/wiki/Russia
+359 360 3010 . .  
+362 364 4001 He PRP  
+365 374 4002 scheduled VBD  
+375 377 4003 to TO  
+378 382 4004 hold VB  
+383 388 4005 talks NNS  
+389 393 4006 with IN  
+394 397 4007 his PRP$  
+398 405 4008 Russian JJ COU 
+406 417 4009 counterpart NN  
+417 418 4010    
+419 427 4011 Vladimir NNP PER https://en.wikipedia.org/wiki/Vladimir_Putin
+428 433 4012 Putin NNP PER https://en.wikipedia.org/wiki/Vladimir_Putin
+434 436 4013 on IN  
+437 443 4014 Friday NNP  
+443 444 4015 . .  
+447 453 5001 Russia NNP COU https://en.wikipedia.org/wiki/Russia
+454 456 5002 is VBZ  
+457 460 5003 the DT  
+461 466 5004 world NN  
+466 468 5005 's POS  
+469 475 5006 second JJ  
+476 483 5007 largest JJS  
+484 487 5008 oil NN  
+488 496 5009 exporter NN  
+496 497 5010    
+498 503 5011 while IN  
+504 513 5012 Venezuela NNP COU https://en.wikipedia.org/wiki/Venezuela
+514 516 5013 is VBZ  
+517 522 5014 fifth JJ  
+523 528 5015 among IN  
+529 542 5016 oil-exporting JJ  
+543 552 5017 countries NNS  
+552 553 5018 . .  

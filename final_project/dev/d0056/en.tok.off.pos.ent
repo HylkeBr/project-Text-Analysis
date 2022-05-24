@@ -1,0 +1,69 @@
+0 2 1001 An DT
+3 12 1002 explosion NN
+13 15 1003 in IN
+16 24 1004 southern JJ
+25 32 1005 Lebanon NNP COU https://en.wikipedia.org/wiki/Lebanon
+33 36 1006 has VBZ
+37 43 1007 killed VBD
+44 45 1008 a DT
+46 52 1009 senior JJ
+53 64 1010 Palestinian NN
+65 73 1011 official NN
+74 77 1012 and CC
+78 80 1013 at IN
+81 86 1014 least NN
+87 92 1015 three CD
+93 98 1016 other JJ
+99 105 1017 people NNS
+105 106 1018 . .
+108 116 2001 Lebanese JJ
+117 120 2002 and CC
+121 132 2003 Palestinian NN
+133 141 2004 security NN
+142 151 2005 officials NNS
+152 155 2006 say NN
+156 159 2007 the DT
+160 165 2008 blast NN
+166 169 2009 hit NN
+170 171 2010 a DT
+172 175 2011 car NN
+176 184 2012 carrying NN
+185 190 2013 Fatah NN ORG https://en.wikipedia.org/wiki/Fatah
+191 199 2014 official NN
+200 206 2015 Medhat NNP PER https://en.wikipedia.org/wiki/Kamal_Naji
+207 212 2016 Kamal NNP PER https://en.wikipedia.org/wiki/Kamal_Naji
+213 220 2017 outside NN
+221 224 2018 the DT
+225 229 2019 Mieh NN CIT https://en.wikipedia.org/wiki/Mieh_Mieh_refugee_camp
+230 234 2020 Mieh NN CIT https://en.wikipedia.org/wiki/Mieh_Mieh_refugee_camp
+235 242 2021 refugee NN
+243 247 2022 camp NN
+247 248 2023 , ,
+249 253 2024 near IN
+254 257 2025 the DT
+258 265 2026 coastal NN
+266 270 2027 city NN
+271 273 2028 of IN
+274 279 2029 Sidon NN CIT https://en.wikipedia.org/wiki/Sidon
+279 280 2030 . .
+282 287 3001 Kamal NNP PER https://en.wikipedia.org/wiki/Kamal_Naji
+287 288 3002 , ,
+289 292 3003 who WP
+293 296 3004 was VBD
+297 303 3005 killed VBD
+303 304 3006 , ,
+305 308 3007 was VBD
+309 310 3008 a DT
+311 317 3009 deputy NN
+318 320 3010 to TO
+321 324 3011 the DT
+325 336 3012 Palestinian NN ORG https://en.wikipedia.org/wiki/Palestine_Liberation_Organization
+337 347 3013 Liberation NN ORG https://en.wikipedia.org/wiki/Palestine_Liberation_Organization
+348 360 3014 Organization NN ORG https://en.wikipedia.org/wiki/Palestine_Liberation_Organization
+360 361 3015 , ,
+362 365 3016 PLO NNP ORG https://en.wikipedia.org/wiki/Palestine_Liberation_Organization
+365 366 3017 , ,
+367 381 3018 representative NN
+382 384 3019 in IN
+385 392 3020 Lebanon NNP COU https://en.wikipedia.org/wiki/Lebanon
+392 393 3021 . .

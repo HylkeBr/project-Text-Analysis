@@ -1,0 +1,87 @@
+0 5 1001 Tidal NNP
+6 11 1002 waves NNS
+12 18 1003 caused VBD
+19 21 1004 by IN
+22 25 1005 the DT
+26 33 1006 massive NN
+34 39 1007 Asian JJ
+40 50 1008 earthquake NN
+51 55 1009 have VBP
+56 62 1010 killed VBD
+63 65 1011 at IN
+66 71 1012 least NN
+72 74 1013 10 CD
+75 81 1014 people NNS
+82 84 1015 on IN
+85 91 1016 Africa NNP
+91 93 1017 's POS
+94 98 1018 east NN
+99 104 1019 coast NN
+105 109 1020 with IN
+110 111 1021 a DT
+112 118 1022 number NN
+119 121 1023 of IN
+122 127 1024 other JJ
+128 136 1025 tourists NNS
+137 140 1026 and CC
+141 150 1027 residents NNS
+151 159 1028 reported VBD
+160 167 1029 missing VBG
+167 168 1030 . .
+169 180 2001 Authorities NNS
+181 185 2002 from IN
+186 193 2003 Somalia NNP COU https://en.wikipedia.org/wiki/Somalia
+194 196 2004 to TO
+197 202 2005 South NNP COU https://en.wikipedia.org/wiki/South_Africa
+203 209 2006 Africa NNP COU https://en.wikipedia.org/wiki/South_Africa
+210 213 2007 and CC
+214 217 2008 the DT
+218 224 2009 Indian JJ NAT https://en.wikipedia.org/wiki/List_of_islands_in_the_Indian_Ocean
+225 230 2010 Ocean NN NAT https://en.wikipedia.org/wiki/List_of_islands_in_the_Indian_Ocean
+231 238 2011 islands NNS NAT https://en.wikipedia.org/wiki/List_of_islands_in_the_Indian_Ocean
+239 243 2012 have VBP
+244 249 2013 urged VBD
+250 256 2014 people NNS
+257 259 2015 to TO
+260 264 2016 move NN
+265 271 2017 inland NN
+271 272 2018 . .
+273 275 3001 At IN
+276 281 3002 least NN
+282 285 3003 one NN
+286 291 3004 death NN
+292 294 3005 is VBZ
+295 303 3006 reported VBD
+304 306 3007 in IN
+307 312 3008 Kenya NNP COU https://en.wikipedia.org/wiki/Kenya
+313 318 3009 while IN
+319 322 3010 the DT
+323 333 3011 Associated NNP ORG https://en.wikipedia.org/wiki/Associated_Press
+334 339 3012 Press NN ORG https://en.wikipedia.org/wiki/Associated_Press
+340 347 3013 reports NNS
+348 352 3014 nine CD
+353 360 3015 drowned VBD
+361 363 3016 in IN
+364 371 3017 Somalia NNP COU https://en.wikipedia.org/wiki/Somalia
+371 372 3018 . .
+373 377 4001 High NNP
+378 383 4002 waves NNS
+384 388 4003 have VBP
+389 393 4004 also RB
+394 401 4005 smashed VBD
+402 403 4006 a DT
+404 410 4007 number NN
+411 413 4008 of IN
+414 421 4009 fishing NN
+422 427 4010 boats NNS
+428 431 4011 and CC
+432 436 4012 left VBD
+437 442 4013 parts NNS
+443 445 4014 of IN
+446 449 4015 the DT
+450 456 4016 island NN COU https://en.wikipedia.org/wiki/Rodrigues
+457 459 4017 of IN COU https://en.wikipedia.org/wiki/Rodrigues
+460 469 4018 Rodrigues NNS COU https://en.wikipedia.org/wiki/Rodrigues
+470 475 4019 under IN
+476 481 4020 water NN
+481 482 4021 . .

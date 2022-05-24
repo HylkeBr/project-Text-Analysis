@@ -1,0 +1,73 @@
+0 3 1001 The DT
+4 8 1002 U.S. NNP COU https://en.wikipedia.org/wiki/United_States
+9 14 1003 media NNS
+15 21 1004 seized VBD
+22 24 1005 on IN
+25 31 1006 recent JJ
+32 39 1007 reports NNS
+40 44 1008 that IN
+45 49 1009 high JJ
+50 56 1010 school NN
+57 62 1011 girls NNS
+63 65 1012 in IN
+66 67 1013 a DT
+68 81 1014 Massachusetts NNP COU https://en.wikipedia.org/wiki/Massachusetts
+82 86 1015 town NN
+87 90 1016 had VBD
+91 95 1017 made VBN
+96 97 1018 a DT
+98 102 1019 pact NN
+103 105 1020 to TO
+106 109 1021 get VB
+110 118 1022 pregnant JJ
+119 122 1023 and CC
+123 128 1024 raise VB
+129 135 1025 babies NNS
+136 144 1026 together RB
+144 145 1027 . .
+146 155 2001 Officials NNS
+156 160 2002 have VBP
+161 169 2003 rejected VBN
+170 177 2004 reports NNS
+178 180 2005 of IN
+181 182 2006 a DT
+183 192 2007 pregnancy NN
+193 197 2008 pact NN
+197 198 2009 , ,
+199 202 2010 but CC
+203 206 2011 the DT
+207 215 2012 incident NN
+216 226 2013 highlights NNS
+227 234 2014 concern NN
+235 240 2015 among IN
+241 245 2016 some DT
+246 256 2017 adolescent JJ
+257 263 2018 health NN
+264 271 2019 experts NNS
+272 276 2020 that IN
+277 280 2021 the DT
+281 285 2022 U.S. NNP COU https://en.wikipedia.org/wiki/United_States
+286 290 2023 teen JJ
+291 296 2024 birth NN
+297 301 2025 rate NN
+302 304 2026 is VBZ
+305 313 2027 starting VBG
+314 316 2028 to TO
+317 321 2029 rise VB
+322 327 2030 again RB
+327 328 2031 . .
+329 333 3001 Leta NNP PER https://en.wikipedia.org/wiki/Leta_Hong_Fincher
+334 338 3002 Hong NNP PER https://en.wikipedia.org/wiki/Leta_Hong_Fincher
+339 346 3003 Fincher NNP PER https://en.wikipedia.org/wiki/Leta_Hong_Fincher
+347 350 3004 has VBZ
+351 355 3005 more JJR
+356 358 3006 on IN
+359 363 3007 teen JJ
+364 371 3008 mothers NNS
+372 375 3009 and CC
+376 383 3010 efforts NNS
+384 386 3011 to TO
+387 393 3012 reduce VB
+394 398 3013 teen JJ
+399 408 3014 pregnancy NN
+408 409 3015 . .

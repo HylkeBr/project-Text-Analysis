@@ -1,0 +1,101 @@
+0 3 1001 The DT
+4 13 1002 president NN
+14 16 1003 of IN
+17 20 1004 the DT
+21 33 1005 Organization NNP ORG https://en.wikipedia.org/wiki/OPEC
+34 36 1006 of IN ORG https://en.wikipedia.org/wiki/OPEC
+37 46 1007 Petroleum NNP ORG https://en.wikipedia.org/wiki/OPEC
+47 56 1008 Exporting NNP ORG https://en.wikipedia.org/wiki/OPEC
+57 66 1009 Countries NNP ORG https://en.wikipedia.org/wiki/OPEC
+67 71 1010 says VBZ
+72 75 1011 the DT
+76 79 1012 oil NN
+80 86 1013 cartel NN
+87 93 1014 should MD
+94 98 1015 keep VB
+99 108 1016 producing VBG
+109 112 1017 the DT
+113 120 1018 current JJ
+121 127 1019 amount NN
+128 130 1020 of IN
+131 134 1021 oil NN
+135 138 1022 and CC
+139 147 1023 consider VB
+148 155 1024 raising VBG
+156 159 1025 its PRP$
+160 166 1026 quotas NNS
+166 167 1027 . .
+168 171 2001 The DT
+172 180 2002 comments NNS
+181 185 2003 came VBD
+186 192 2004 Monday NNP
+193 197 2005 from IN
+198 202 2006 OPEC NNP ORG https://en.wikipedia.org/wiki/OPEC
+203 212 2007 President NNP
+213 219 2008 Sheikh NNP
+220 225 2009 Ahmad NNP PER https://en.wikipedia.org/wiki/Ahmed_Al-Fahad_Al-Ahmed_Al-Sabah
+226 233 2010 al-Fahd JJ PER https://en.wikipedia.org/wiki/Ahmed_Al-Fahad_Al-Ahmed_Al-Sabah
+234 242 2011 al-Sabah NN PER https://en.wikipedia.org/wiki/Ahmed_Al-Fahad_Al-Ahmed_Al-Sabah
+242 243 2012 , ,
+244 247 2013 who WP
+248 250 2014 is VBZ
+251 255 2015 also RB
+256 262 2016 Kuwait NNP COU https://en.wikipedia.org/wiki/Kuwait
+262 264 2017 's POS
+265 268 2018 oil NN
+269 277 2019 minister NN
+277 278 2020 . .
+279 283 3001 OPEC NNP ORG https://en.wikipedia.org/wiki/OPEC
+284 293 3002 officials NNS
+294 297 3003 are VBP
+298 307 3004 scheduled VBN
+308 310 3005 to TO
+311 317 3006 gather VB
+318 320 3007 in IN
+321 325 3008 Iran NNP COU https://en.wikipedia.org/wiki/Iran
+326 328 3009 on IN
+329 334 3010 March NNP
+335 337 3011 16 CD
+338 340 3012 to TO
+341 348 3013 discuss VB
+349 352 3014 oil NN
+353 361 3015 supplies NNS
+362 365 3016 and CC
+366 372 3017 prices NNS
+372 373 3018 . .
+374 379 4001 World NNP
+380 383 4002 oil NN
+384 390 4003 prices NNS
+391 397 4004 pushed VBD
+398 403 4005 above IN
+404 405 4006 $ $
+405 407 4007 52 CD
+408 409 4008 a DT
+410 416 4009 barrel NN
+417 423 4010 Monday NNP
+424 426 4011 as IN
+427 438 4012 forecasters NNS
+439 443 4013 said VBD
+444 445 4014 a DT
+446 452 4015 winter NN
+453 458 4016 storm NN
+459 464 4017 would MD
+465 469 4018 dump VB
+470 481 4019 significant JJ
+482 486 4020 snow NN
+487 489 4021 on IN
+490 493 4022 the DT
+494 506 4023 northeastern JJ
+507 511 4024 part NN
+512 514 4025 of IN
+515 518 4026 the DT
+519 525 4027 United NNP COU https://en.wikipedia.org/wiki/United_States
+526 532 4028 States NNPS COU https://en.wikipedia.org/wiki/United_States
+532 533 4029 , ,
+534 541 4030 pushing VBG
+542 544 4031 up RP
+545 551 4032 demand NN
+552 555 4033 for IN
+556 563 4034 heating JJ
+564 567 4035 oil NN
+567 568 4036 . .

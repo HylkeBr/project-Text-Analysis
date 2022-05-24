@@ -1,0 +1,86 @@
+0 2 1001 An DT
+3 12 1002 avalanche NN
+13 15 1003 in IN
+16 17 1004 a DT
+18 29 1005 mountainous JJ
+30 34 1006 area NN
+35 37 1007 of IN
+38 46 1008 northern JJ
+47 55 1009 Pakistan NNP COU https://en.wikipedia.org/wiki/Pakistan
+56 59 1010 has VBZ
+60 66 1011 killed VBN
+67 69 1012 25 CD
+70 76 1013 people NNS
+77 80 1014 who WP
+81 85 1015 were VBD
+86 93 1016 digging VBG
+94 97 1017 for IN
+98 106 1018 precious JJ
+107 113 1019 stones NNS
+113 114 1020 . .
+115 124 2001 Officials NNS
+125 128 2002 say VBP
+129 132 2003 the DT
+133 141 2004 incident NN
+142 150 2005 happened VBD
+151 159 2006 Thursday NNP
+160 162 2007 in IN
+163 166 2008 the DT
+167 173 2009 remote JJ
+174 182 2010 Kohistan NNP COU https://en.wikipedia.org/wiki/Kohistan_District,_Pakistan
+183 189 2011 region NN
+189 190 2012 , ,
+191 193 2013 in IN
+194 202 2014 Pakistan NNP COU https://en.wikipedia.org/wiki/Pakistan
+202 204 2015 's POS
+205 214 2016 Northwest NNP COU https://en.wikipedia.org/wiki/North-West_Frontier_Province
+215 223 2017 Frontier NNP COU https://en.wikipedia.org/wiki/North-West_Frontier_Province
+224 232 2018 province NN
+232 233 2019 . .
+234 245 3001 Authorities NNS
+246 249 3002 say VBP
+250 253 3003 the DT
+254 261 3004 victims NNS
+262 266 3005 were VBD
+267 276 3006 exploring VBG
+277 282 3007 mines NNS
+283 286 3008 and CC
+287 296 3009 searching VBG
+297 300 3010 for IN
+301 309 3011 precious JJ
+310 316 3012 stones NNS
+317 321 3013 when WRB
+322 326 3014 they PRP
+327 331 3015 were VBD
+332 338 3016 buried VBN
+339 341 3017 by IN
+342 345 3018 the DT
+346 355 3019 avalanche NN
+355 356 3020 . .
+357 365 4001 Rescuers NNS
+366 372 4002 rushed VBD
+373 375 4003 to TO
+376 379 4004 the DT
+380 384 4005 site NN
+385 388 4006 but CC
+389 393 4007 were VBD
+394 398 4008 only RB
+399 403 4009 able JJ
+404 406 4010 to TO
+407 411 4011 save VB
+412 415 4012 one CD
+416 422 4013 person NN
+422 423 4014 . .
+424 432 5001 Kohistan NNP COU https://en.wikipedia.org/wiki/Kohistan_District,_Pakistan
+433 435 5002 is VBZ
+436 441 5003 about IN
+442 445 5004 350 CD
+446 456 5005 kilometers NNS
+457 466 5006 northeast RB
+467 469 5007 of IN
+470 478 5008 Peshawar NNP CIT https://en.wikipedia.org/wiki/Peshawar
+478 479 5009 , ,
+480 483 5010 the DT
+484 494 5011 provincial JJ
+495 502 5012 capital NN
+502 503 5013 . .

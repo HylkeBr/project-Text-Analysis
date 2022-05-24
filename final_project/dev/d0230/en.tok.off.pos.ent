@@ -1,0 +1,73 @@
+0 8 1001 Longwood NN NAT https://en.wikipedia.org/wiki/Longwood_Gardens
+9 16 1002 Gardens NNS NAT https://en.wikipedia.org/wiki/Longwood_Gardens
+17 19 1003 in IN
+20 23 1004 the DT
+24 31 1005 eastern JJ
+32 37 1006 state NN
+38 40 1007 of IN
+41 53 1008 Pennsylvania NNP COU https://en.wikipedia.org/wiki/Pennsylvania
+54 57 1009 has VBZ
+58 62 1010 been VBN
+63 72 1011 described VBN
+73 75 1012 by IN
+76 80 1013 many JJ
+81 89 1014 visitors NNS
+90 92 1015 as IN
+93 94 1016 a DT
+95 108 1017 horticultural JJ
+109 117 1018 paradise NN
+118 121 1019 and CC
+122 130 1020 attracts VBZ
+131 139 1021 hundreds NNS
+140 142 1022 of IN
+143 152 1023 thousands NNS
+153 155 1024 of IN
+156 162 1025 nature NN
+163 169 1026 lovers NNS
+170 174 1027 each DT
+175 179 1028 year NN
+179 180 1029 . .
+183 187 2001 Over IN
+188 191 2002 the DT
+192 196 2003 lush JJ
+197 200 2004 424 CD
+201 209 2005 hectares NNS
+210 215 2006 there EX
+216 219 2007 are VBP
+220 224 2008 more JJR
+225 229 2009 than IN
+230 232 2010 40 CD
+233 242 2011 different JJ
+243 250 2012 gardens NNS
+251 254 2013 and CC
+255 263 2014 displays NNS
+263 264 2015 . .
+265 268 3001 VOA NNP ORG https://en.wikipedia.org/wiki/Voice_of_America
+268 270 3002 's POS
+271 277 3003 Amitis NNP PER
+278 286 3004 Darabnia NNP PER
+287 292 3005 takes VBZ
+293 295 3006 us PRP
+296 302 3007 inside IN
+303 306 3008 the DT
+307 313 3009 garden NN
+313 315 3010 's POS
+316 328 3011 conservatory NN
+328 329 3012 , ,
+330 331 3013 a DT
+332 337 3014 large JJ
+338 344 3015 indoor NN
+345 353 3016 facility NN
+354 358 3017 that WDT
+359 361 3018 is VBZ
+362 366 3019 home NN
+367 369 3020 to TO
+370 375 3021 5,500 CD
+376 381 3022 types NNS
+382 384 3023 of IN
+385 391 3024 plants NNS
+391 392 3025 . .
+393 400 4001 Natalie NNP PER
+401 406 4002 Breen NNP PER
+407 415 4003 narrates NNS
+415 416 4004 . .

@@ -1,0 +1,102 @@
+0 2 1001 El NNP COU https://en.wikipedia.org/wiki/El_Salvador
+3 11 1002 Salvador NNP COU https://en.wikipedia.org/wiki/El_Salvador
+12 15 1003 has VBZ
+16 20 1004 sent VBN
+21 22 1005 a DT
+23 29 1006 fourth JJ
+30 40 1007 contingent NN
+41 43 1008 of IN
+44 52 1009 soldiers NNS
+53 55 1010 to TO
+56 60 1011 Iraq NNP COU https://en.wikipedia.org/wiki/Iraq
+60 61 1012 . .
+63 70 2001 Roughly RB
+71 74 2002 380 CD
+75 83 2003 soldiers NNS
+84 88 2004 from IN
+89 92 2005 the DT
+93 102 2006 Cuscatlan NNP
+103 112 2007 Battalion NNP
+113 117 2008 left VBD
+118 119 2009 a DT
+120 128 2010 military JJ
+129 133 2011 base NN
+134 142 2012 Thursday NNP
+143 146 2013 for IN
+147 152 2014 their PRP$
+153 162 2015 six-month JJ
+163 167 2016 tour NN
+168 170 2017 of IN
+171 175 2018 duty NN
+176 178 2019 in IN
+179 183 2020 Iraq NNP COU https://en.wikipedia.org/wiki/Iraq
+183 184 2021 . .
+186 195 3001 Officials NNS
+196 199 3002 say VBP
+200 203 3003 the DT
+204 210 3004 troops NNS
+211 215 3005 will MD
+216 220 3006 make VB
+221 222 3007 a DT
+223 227 3008 stop NN
+228 230 3009 in IN
+231 237 3010 Kuwait NNP COU https://en.wikipedia.org/wiki/Kuwait
+237 238 3011 . .
+239 242 4001 The DT
+243 254 4002 Salvadorans NNPS
+255 259 4003 will MD
+260 267 4004 replace VB
+268 271 4005 380 CD
+272 278 4006 troops NNS
+279 282 4007 who WP
+283 287 4008 have VBP
+288 292 4009 been VBN
+293 295 4010 in IN
+296 300 4011 Iraq NNP COU https://en.wikipedia.org/wiki/Iraq
+301 306 4012 since IN
+307 311 4013 last JJ
+312 318 4014 August NNP
+318 319 4015 . .
+320 322 5001 El NNP COU https://en.wikipedia.org/wiki/Salvadorans
+323 331 5002 Salvador NNP COU https://en.wikipedia.org/wiki/Salvadorans
+332 334 5003 is VBZ
+335 338 5004 the DT
+339 343 5005 only JJ
+344 349 5006 Latin JJ COU https://en.wikipedia.org/wiki/Latin_America
+350 358 5007 American JJ COU https://en.wikipedia.org/wiki/Latin_America
+359 366 5008 country NN
+367 371 5009 with IN
+372 378 5010 troops NNS
+379 381 5011 in IN
+382 386 5012 Iraq NNP COU https://en.wikipedia.org/wiki/Iraq
+386 387 5013 . .
+389 397 6001 Honduras NNP COU https://en.wikipedia.org/wiki/Honduras
+397 398 6002 , ,
+399 408 6003 Nicaragua NNP COU https://en.wikipedia.org/wiki/Nicaragua
+409 412 6004 and CC
+413 416 6005 the DT
+417 426 6006 Dominican NNP COU https://en.wikipedia.org/wiki/Dominican_Republic
+427 435 6007 Republic NNP COU https://en.wikipedia.org/wiki/Dominican_Republic
+436 440 6008 have VBP
+441 450 6009 withdrawn VBN
+451 456 6010 their PRP$
+457 463 6011 forces NNS
+463 464 6012 . .
+465 469 7001 Last JJ
+470 475 7002 April NNP
+475 476 7003 , ,
+477 480 7004 one CD
+481 491 7005 Salvadoran NNP
+492 499 7006 soldier NN
+500 503 7007 was VBD
+504 510 7008 killed VBN
+511 514 7009 and CC
+515 517 7010 12 CD
+518 524 7011 others NNS
+525 532 7012 wounded VBD
+533 539 7013 during IN
+540 541 7014 a DT
+542 547 7015 clash NN
+548 552 7016 with IN
+553 563 7017 insurgents NNS
+563 564 7018 . .

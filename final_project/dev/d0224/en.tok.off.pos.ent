@@ -1,0 +1,60 @@
+0 3 1001 The DT
+4 9 1002 World NNP ORG https://en.wikipedia.org/wiki/World_Health_Organization
+10 16 1003 Health NNP ORG https://en.wikipedia.org/wiki/World_Health_Organization
+17 29 1004 Organization NNP ORG https://en.wikipedia.org/wiki/World_Health_Organization
+30 39 1005 estimates VBZ
+40 44 1006 that IN
+45 47 1007 at IN
+48 53 1008 least JJS
+54 56 1009 17 CD
+57 64 1010 million CD
+65 71 1011 people NNS
+72 75 1012 die VBP
+76 81 1013 every DT
+82 86 1014 year NN
+87 91 1015 from IN
+92 106 1016 cardiovascular JJ
+107 114 1017 disease NN
+114 115 1018 . .
+117 124 2001 Because IN
+125 130 2002 heart NN
+131 138 2003 related VBN
+139 148 2004 illnesses NNS
+149 152 2005 are VBP
+153 158 2006 often RB
+159 168 2007 diagnosed VBN
+169 171 2008 in IN
+172 178 2009 people NNS
+179 182 2010 who WP
+183 186 2011 are VBP
+187 197 2012 overweight JJ
+198 200 2013 or CC
+201 206 2014 obese JJ
+206 207 2015 , ,
+208 217 2016 treatment NN
+218 221 2017 can MD
+222 224 2018 be VB
+225 236 2019 complicated VBN
+236 237 2020 . .
+239 242 3001 But CC
+243 245 3002 as IN
+246 249 3003 VOA NNP ORG https://en.wikipedia.org/wiki/Voice_of_America
+249 251 3004 's POS
+252 259 3005 Melinda NNP PER
+260 265 3006 Smith NNP PER
+266 273 3007 reports NNS
+273 274 3008 , ,
+275 276 3009 a DT
+277 281 3010 drug NN
+282 286 3011 used VBN
+287 290 3012 for IN
+291 297 3013 weight JJ
+298 302 3014 loss NN
+303 305 3015 is VBZ
+306 313 3016 showing VBG
+314 321 3017 promise NN
+322 325 3018 for IN
+326 330 3019 some DT
+331 336 3020 heart NN
+337 345 3021 patients NNS
+345 346 3022 . .

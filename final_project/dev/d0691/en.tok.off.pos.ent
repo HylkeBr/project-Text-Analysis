@@ -1,0 +1,68 @@
+0 5 1001 Tonga NN COU https://en.wikipedia.org/wiki/Tonga
+6 7 1002 - :
+8 14 1003 unique NN
+15 20 1004 among IN
+21 28 1005 Pacific NNP
+29 36 1006 nations NNS
+37 38 1007 - :
+39 44 1008 never RB
+45 55 1009 completely RB
+56 60 1010 lost NN
+61 64 1011 its PRP$
+65 75 1012 indigenous JJ
+76 86 1013 governance NN
+86 87 1014 . .
+88 91 2001 The DT COU https://en.wikipedia.org/wiki/Tonga
+92 104 2002 archipelagos NN COU https://en.wikipedia.org/wiki/Tonga
+105 107 2003 of IN COU https://en.wikipedia.org/wiki/Tonga
+108 109 2004 " NN
+109 112 2005 The DT COU https://en.wikipedia.org/wiki/Tonga
+113 121 2006 Friendly JJ COU https://en.wikipedia.org/wiki/Tonga
+122 129 2007 Islands NNS COU https://en.wikipedia.org/wiki/Tonga
+129 130 2008 " NN
+131 135 2009 were VBD
+136 142 2010 united JJ
+143 147 2011 into IN
+148 149 2012 a DT
+150 160 2013 Polynesian NN COU
+161 168 2014 kingdom NN COU
+169 171 2015 in IN
+172 176 2016 1845 CD
+176 177 2017 . .
+178 183 3001 Tonga NN COU https://en.wikipedia.org/wiki/Tonga
+184 190 3002 became VBD
+191 192 3003 a DT
+193 207 3004 constitutional JJ
+208 216 3005 monarchy NN
+217 219 3006 in IN
+220 224 3007 1875 CD
+225 228 3008 and CC
+229 230 3009 a DT
+231 238 3010 British JJ ORG https://en.wikipedia.org/wiki/British_protectorat
+239 251 3011 protectorate NN ORG https://en.wikipedia.org/wiki/British_protectorat
+252 254 3012 in IN
+255 259 3013 1900 CD
+259 260 3014 ; :
+261 263 3015 it PRP
+264 272 3016 withdrew NN
+273 277 3017 from IN
+278 281 3018 the DT
+282 294 3019 protectorate NN
+295 298 3020 and CC
+299 305 3021 joined VBD
+306 309 3022 the DT
+310 322 3023 Commonwealth NN ORG https://en.wikipedia.org/wiki/Commonwealth_of_Nations
+323 325 3024 of IN ORG https://en.wikipedia.org/wiki/Commonwealth_of_Nations
+326 333 3025 Nations NNS ORG https://en.wikipedia.org/wiki/Commonwealth_of_Nations
+334 336 3026 in IN
+337 341 3027 1970 CD
+341 342 3028 . .
+343 348 4001 Tonga NN COU https://en.wikipedia.org/wiki/Tonga
+349 356 4002 remains NNS
+357 360 4003 the DT
+361 365 4004 only RB
+366 374 4005 monarchy NN
+375 377 4006 in IN
+378 381 4007 the DT
+382 389 4008 Pacific NNP NAT https://en.wikipedia.org/wiki/Pacific_Ocean
+389 390 4009 . .
