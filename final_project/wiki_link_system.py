@@ -51,18 +51,22 @@ def main():
     ner_tagger = CoreNLPParser(url="http://localhost:9000", tagtype="ner")
 
     entity_data = {}
-    new_file_cont = []
-    sentence = []
-    sentence_wdata = []
+    
+    
+    
     
     for folder in dir_names:
-    # ^ replace with 'for folder in dir_names:' for all files ^["d0021"]
+    # ^ replace with 'for folder in dir_names:' for all files ^ ["d0021"]
+
+        new_file_cont = []
 
         #print()
         #print(folder)
         #print("_______________________________________________")
         #print()
         
+        sentence = []
+        sentence_wdata = []
         file_cont = content_dict[folder]
         for word_data in file_cont:
             sentence_wdata.append(word_data)
