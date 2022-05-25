@@ -52,36 +52,55 @@ def main():
 
     entity_data = {}
     new_file_cont = []
-    for folder in ["d0021"]:
-    # ^ replace with 'for folder in dir_names:' for all files ^
+    sentence = []
+    sentence_wdata = []
+    
+    for folder in dir_names:
+    # ^ replace with 'for folder in dir_names:' for all files ^["d0021"]
 
         #print()
         #print(folder)
         #print("_______________________________________________")
         #print()
+        
         file_cont = content_dict[folder]
         for word_data in file_cont:
+            sentence_wdata.append(word_data)
             data_columns = word_data.split()
             if len(data_columns) > 4:
-                if convert_POS(data_columns[4]) == False:
-                    word_lemma = lemmatizer.lemmatize(data_columns[3])
-                else:
-                    word_lemma = lemmatizer.lemmatize(data_columns[3], pos=convert_POS(data_columns[4]))
-                entity = ner_tagger.tag([word_lemma])
-                if entity[0][1] != "O":
-                    data_columns.append(entity[0][1][:3])
+                sentence.append(data_columns[3])
 
-                #new_file_cont.append(" ".join(data_columns))
+        assigned_ent = ner_tagger.tag(sentence)
+        #print("===============================================")
+        #print(len(sentence_wdata))
+
+        empty_items = 0
+
+        # checks for items that do not have a word value
+        for item in sentence_wdata:
+            if len(item.split()) < 5:
+                empty_items += 1
+        
+        for sent_i in range(len(sentence_wdata) - empty_items):
+            data_c = sentence_wdata[sent_i].split()
+            if assigned_ent[sent_i][1][:3] != "O":
+                data_c.append(assigned_ent[sent_i][1][:3])
             
-            if len(data_columns) == 6:
-                #print(wikipedia.search(word_lemma))
-                if len(wikipedia.search(word_lemma)) != 0:
-                    wikipages = wikipedia.search(word_lemma)
-                    print(wikipedia.page(wikipages[0]).url)
-                    print()
-                    data_columns.append(wikipedia.page(wikipages[0]).url)
+            new_file_cont.append(" ".join(data_c))
+
+        
+            #if len(data_columns) == 6:
+            #    #print(wikipedia.search(word_lemma))
+            #    if len(wikipedia.search(word_lemma)) != 0:
+            #        wikipages = wikipedia.search(word_lemma)
+            #        print(word_lemma)
+            #        print(wikipages)
+            #        print()
+            #        #print(wikipedia.page(wikipages[0]).url)
+            #        #print()
+            #        #data_columns.append(wikipedia.page(wikipages[0]).url)
             
-            new_file_cont.append(" ".join(data_columns))
+            #new_file_cont.append(" ".join(data_columns))
 
         entity_data[folder] = new_file_cont
 
