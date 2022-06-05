@@ -3,10 +3,12 @@ from re import search
 import sys
 import nltk
 from nltk.stem import WordNetLemmatizer
-from nltk.parse import CoreNLPParser
 # import wikipedia
 from mediawiki import MediaWiki
-import glob
+from nltk.corpus import wordnet as wn
+from nltk.wsd import lesk
+from pywsd.lesk import simple_lesk, adapted_lesk, cosine_lesk
+from nltk.parse import CoreNLPParser
 
 
 def cleanup_list(data_list):
@@ -65,6 +67,28 @@ def coreNLP_ner_tagger(lines):
     return new_entities
 
 
+def categorise_WordNet(lines, doc):
+    '''finds named entities based on WordNet information and returns the entity'''
+    categories = {'ANI': ['animal', 'bird'], 'SPO': ['sport'], 'NAT': ['ocean', 'river', 'mountain', 'crack', 'land', 'forest', 'jungle', 'sea']}
+    for line in lines:
+        token = line[3]
+        tag = line[4]
+        if tag in ['NN', 'NNPS', 'NNS']:
+            synsets = wn.synsets(token, pos=wn.NOUN) # creates a list with all found synsets for noun
+            if len(synsets) > 1:
+                #use any of the following Lesk-based algorithms to disambiguate synset
+                #so far adapted_lesk is the best: does not tag 'bird(s)', services' & 'workers', but does tag 'soldiers' and 'survivors' 
+                synset = adapted_lesk(doc, token, pos='NOUN') # simple_lesk(), cosine_lesk(), adapted_lesk() or just lesk() from NLTK
+                #find hypernyms for this synset
+                hypernyms = [i for i in synset.closure(lambda s:s.hypernyms())] 
+                #iterate through hypernyms to see whether they match a category
+                for hyp in hypernyms:
+                    if str(hyp) != "Synset('public_transport.n.01')" and str(hyp) != "Synset('sports_equipment.n.01')": # beide is geen sport
+                        for key, value_list in categories.items():  
+                            for cat in value_list:
+                                if cat in str(hyp):
+                                    return (line[0], line[1], token, key)
+
 
 def main():
     wikipedia = MediaWiki()
@@ -77,7 +101,8 @@ def main():
             file_content = f.readlines()
         lines = [line.rstrip().split() for line in file_content]
         
-        
+        token_doc = ' '.join(line[3] for line in lines)
+                
         entities = []
             
         # Stanford CoreNLP NER tagger
@@ -86,6 +111,13 @@ def main():
             print('Appending CoreNLP tagged entities', coreNLP_entity)
             for coreNLP_ent in coreNLP_entity:
                 entities.append(coreNLP_ent)
+
+        
+        # find entities for categories 'ANI', 'SPO' and 'NAT' with WordNet
+        wn_entity = categorise_WordNet(lines, token_doc)
+        if wn_entity:
+            print('Appending WordNet tagged entities', wn_entity)
+            entities.append(wn_entity)
         
 
         #content_dict[dir] = cleanup_list(file_content)
