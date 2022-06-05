@@ -118,6 +118,7 @@ def main():
         if wn_entity:
             print('Appending WordNet tagged entities', wn_entity)
             entities.append(wn_entity)
+            
         
 
         #content_dict[dir] = cleanup_list(file_content)
