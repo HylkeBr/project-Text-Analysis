@@ -2,6 +2,8 @@ import os
 from re import search
 import sys
 import nltk
+import spacy
+import csv
 from nltk.stem import WordNetLemmatizer
 # import wikipedia
 from mediawiki import MediaWiki
@@ -10,6 +12,20 @@ from nltk.wsd import lesk
 from pywsd.lesk import simple_lesk, adapted_lesk, cosine_lesk
 from nltk.parse import CoreNLPParser
 
+def gpe_disambiguation(token):
+    '''disambiguate between cities and countries'''
+    with open('GPE/countries.txt') as countryFile:
+        for line in countryFile:
+            if token in line:
+                return 'COU'
+
+    with open('GPE/cities.txt', encoding='utf-8') as cityFile:
+        csvReader = csv.reader(cityFile, delimiter=",")
+        for line in csvReader:
+            if token in line[1] or token in line[2]: #lowercase and uppercase city names
+                return 'CIT'
+
+    return 'COU'
 
 def cleanup_list(data_list):
     """Removes newline characters from list items and looks for 
@@ -66,6 +82,47 @@ def coreNLP_ner_tagger(lines):
         j += 1
     return new_entities
 
+def spacy_tagger(raw):
+    '''find named entities based on SpaCy model and return these entities'''
+    
+    new_entities = []
+    nlp = spacy.load("en_core_web_sm")
+    # create nlp pipeline
+    doc = nlp(raw)
+    # append entity offsets, text and tagged category
+    for ent in doc.ents:
+
+        # offsets have been adjusted to fit both double entities and single
+        b = 0 + ent.start_char
+        e = 0
+        # (125, 132, 'Benazir', 'PER'), (133, 139, 'Bhutto', 'PER')
+        for entit in ent.text.split():
+            e = b + len(entit)
+            # change SpaCy tags to our category tags
+            if ent.label_ not in ['NORP', 'EVENT', 'FAC', 'PRODUCT', 'LAW', 'LANGUAGE', 'DATE', 'TIME', 'PERCENT', 'MONEY', 'QUANTITY', 'ORDINAL', 'CARDINAL']:
+
+                # NORP = 'Israeli' police, 'Muslim' people etc.
+                # if we tag NORP as ORG, the data shows that it is correct 14 times and incorrect 71 times, so let's not include
+                # if ent.label_ == 'NORP':
+                #     label = 'EXTRA'
+                if ent.label_ in ['COU', 'GPE']: # Countries, cities, states.
+                    # disambiguate between countries and cities
+                    label = gpe_disambiguation(ent.text)
+                elif ent.label_ == 'PERSON': # change PERSON to PER
+                    label = 'PER'
+                elif ent.label_ == 'LOC': # Non-GPE locations, mountain ranges, bodies of water.
+                    label = 'NAT'
+                elif ent.label_ == 'WORK_OF_ART': # Titles of books, songs, etc.
+                    label = 'ENT'
+                else:
+                    label = ent.label_
+
+                new_entities.append((str(b), str(e), entit, label))
+            # for ent offsets
+            e += 1
+            b = e
+
+    return new_entities
 
 def categorise_WordNet(lines, doc):
     '''finds named entities based on WordNet information and returns the entity'''
@@ -111,6 +168,12 @@ def main():
             print('Appending CoreNLP tagged entities', coreNLP_entity)
             for coreNLP_ent in coreNLP_entity:
                 entities.append(coreNLP_ent)
+
+        spacy_entity = spacy_tagger(token_doc) # a list of entities
+        if spacy_entity: 
+            print('Appending SpaCy tagged entities', spacy_entity)
+            for spacy_ent in spacy_entity:
+                entities.append(spacy_ent)
 
         
         # find entities for categories 'ANI', 'SPO' and 'NAT' with WordNet
