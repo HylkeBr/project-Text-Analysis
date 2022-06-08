@@ -57,7 +57,7 @@ def main():
     system_dict = {}
     test_dict = {}
 
-    for dir in dir_sorted: #dir_sorted
+    for dir in dir_sorted: 
         with open(os.path.join(sys.argv[1], dir, "system.en.tok.off.pos.ent"), "r") as f:
             system_file_content = f.readlines()
         with open(os.path.join(sys.argv[1], dir, "en.tok.off.pos.ent"), "r") as fl:
@@ -77,6 +77,7 @@ def main():
 
     overlap_data = form.find_annotations(filenames, annA_content, annB_content)
 
+    print()
     print("precision, recall, and f-score for interesting entities vs non-interesting entities:")
     print()
     print()
@@ -95,6 +96,31 @@ def main():
     annA = overlap_data["data_A"]
     annB = overlap_data["data_B"]
     measures(annA, annB)
+
+    print()
+    print("____________________________________________________________________________________")
+    print("____________________________________________________________________________________")
+    print()
+    print()
+
+    print("precision, recall, and f-score for assigned wiki-links vs non-assigned wiki-links:")
+    print()
+    print()
+    assigned_linkA = overlap_data["column_seven_A"]
+    assigned_linkB = overlap_data["column_seven_B"]
+    measures(assigned_linkA, assigned_linkB)
+
+    print()
+    print("____________________________________________________________________________________")
+    print()
+    print()
+
+    print("precision, recall, and f-score for wiki-links:")
+    print()
+    print()
+    correct_linkA = overlap_data["right_link_A"]
+    correct_linkB = overlap_data["right_link_B"]
+    measures(correct_linkA, correct_linkB)
 
 
 if __name__ == "__main__":

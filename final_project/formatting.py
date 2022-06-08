@@ -58,6 +58,11 @@ def find_annotations(filenames, dict_A, dict_B):
     agreed_list_B = []
     column_six_A = []
     column_six_B = []
+    column_seven_A = []
+    column_seven_B = []
+    right_link_A = []
+    right_link_B = []
+    
     for fileID in filenames:
         datafile_A = dict_A[fileID]
         datafile_B = dict_B[fileID]
@@ -75,12 +80,39 @@ def find_annotations(filenames, dict_A, dict_B):
                 column_six_B.append(True)
             else:
                 column_six_B.append(False)
+
+            if len(word_data_A) >= 7:
+                column_seven_A.append(True)
+            else:
+                column_seven_A.append(False)
+            if len(word_data_B) >= 7:
+                column_seven_B.append(True)
+            else:
+                column_seven_B.append(False)
+            
+            # Every link there is in dataset B (seventh column) is right, because
+            # of it being the "answers" dataset
+            if len(word_data_B) >= 7:
+                right_link_B.append(True)
+            else:
+                right_link_B.append(False)
+            if len(word_data_A) >= 7 and len(word_data_B) >= 7:
+                if word_data_A[6] == word_data_B[6]:
+                    right_link_A.append(True)
+                else:
+                    right_link_A.append(False)
+            else:
+                right_link_A.append(False)
     
     agreed_dict = {
         "data_A" : agreed_list_A,
         "data_B" : agreed_list_B,
         "column_six_A" : column_six_A,
-        "column_six_B" : column_six_B
+        "column_six_B" : column_six_B,
+        "column_seven_A" : column_seven_A,
+        "column_seven_B" : column_seven_B,
+        "right_link_A" : right_link_A,
+        "right_link_B" : right_link_B
     }
 
     return agreed_dict
